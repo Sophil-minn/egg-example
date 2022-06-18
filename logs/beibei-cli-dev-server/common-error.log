@@ -1,0 +1,396 @@
+2022-06-18 13:04:53,087 ERROR 5456 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5456
+hostname: 192.168.16.104
+
+2022-06-18 13:05:21,676 ERROR 5456 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5456
+hostname: 192.168.16.104
+
+2022-06-18 13:06:19,007 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:06:19,502 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:06:35,322 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:06:59,411 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:11:04,867 ERROR 5539 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5539
+hostname: 192.168.16.104
+
+2022-06-18 13:11:07,038 ERROR 5539 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5539
+hostname: 192.168.16.104
+
+2022-06-18 13:11:26,822 ERROR 5539 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5539
+hostname: 192.168.16.104
+
+2022-06-18 13:17:02,322 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:17:21,419 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:18:04,301 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:18:28,629 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:20:13,878 ERROR 5656 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5656
+hostname: 192.168.16.104
+
+2022-06-18 13:24:36,589 ERROR 5686 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5686
+hostname: 192.168.16.104
+
+2022-06-18 13:27:04,132 ERROR 5707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5707
+hostname: 192.168.16.104
+
+2022-06-18 13:30:39,921 ERROR 5734 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5734
+hostname: 192.168.16.104
+
+2022-06-18 13:30:49,687 ERROR 5734 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5734
+hostname: 192.168.16.104
+
+2022-06-18 13:51:42,393 ERROR 5915 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5915
+hostname: 192.168.16.104
+
+2022-06-18 13:54:51,827 ERROR 5998 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5998
+hostname: 192.168.16.104
+
+2022-06-18 13:55:13,699 ERROR 5998 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5998
+hostname: 192.168.16.104
+
+2022-06-18 13:59:58,578 ERROR 6043 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6043
+hostname: 192.168.16.104
+
+2022-06-18 14:02:17,865 ERROR 6086 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6086
+hostname: 192.168.16.104
+
+2022-06-18 14:02:27,397 ERROR 6086 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6086
+hostname: 192.168.16.104
+
+2022-06-18 14:06:36,655 ERROR 6179 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6179
+hostname: 192.168.16.104
+
+2022-06-18 14:10:30,968 ERROR 6316 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6316
+hostname: 192.168.16.104
+
+2022-06-18 14:10:40,132 ERROR 6316 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6316
+hostname: 192.168.16.104
+
+2022-06-18 14:30:19,829 ERROR 6588 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6588
+hostname: 192.168.16.104
+
+2022-06-18 14:30:29,209 ERROR 6588 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6588
+hostname: 192.168.16.104
+
+2022-06-18 14:30:42,538 ERROR 6588 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6588
+hostname: 192.168.16.104
+
+2022-06-18 14:35:41,264 ERROR 6668 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6668
+hostname: 192.168.16.104
+
+2022-06-18 15:00:30,388 ERROR 6707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6707
+hostname: 192.168.16.104
+
+2022-06-18 15:00:41,206 ERROR 6707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6707
+hostname: 192.168.16.104
+
+2022-06-18 15:01:26,313 ERROR 6707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6707
+hostname: 192.168.16.104
+
+2022-06-18 15:03:42,293 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:03:43,411 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:03:52,499 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:04:00,218 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:04:23,423 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:04:31,932 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 17:02:05,961 ERROR 11822 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11822
+hostname: 192.168.16.104
+
+2022-06-18 17:04:03,462 ERROR 11822 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11822
+hostname: 192.168.16.104
+
+2022-06-18 17:06:16,981 ERROR 11864 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11864
+hostname: 192.168.16.104
+
+2022-06-18 17:08:48,929 ERROR 11945 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11945
+hostname: 192.168.16.104
+

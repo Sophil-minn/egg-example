@@ -1,0 +1,1306 @@
+2022-06-18 10:23:12,890 INFO 2319 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:23:12,923 INFO 2319 [egg-multipart] stream mode enable
+2022-06-18 10:23:14,196 INFO 2319 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:23:14,225 INFO 2319 [egg-security] use csrf middleware
+2022-06-18 10:23:14,229 INFO 2319 [egg-security] use methodnoallow middleware
+2022-06-18 10:23:14,233 INFO 2319 [egg-security] use noopen middleware
+2022-06-18 10:23:14,234 INFO 2319 [egg-security] use nosniff middleware
+2022-06-18 10:23:14,247 INFO 2319 [egg-security] use xssProtection middleware
+2022-06-18 10:23:14,255 INFO 2319 [egg-security] use xframe middleware
+2022-06-18 10:23:14,264 INFO 2319 [egg-security] use dta middleware
+2022-06-18 10:23:14,264 INFO 2319 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:23:14,316 INFO 2319 [egg:core] dump config after load, 29ms
+2022-06-18 10:23:14,334 INFO 2319 [egg-watcher:application] watcher start success
+2022-06-18 10:23:14,377 INFO 2319 [egg:core] dump config after ready, 5ms
+2022-06-18 10:38:28,221 INFO 2410 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:38:28,394 INFO 2410 [egg-multipart] stream mode enable
+2022-06-18 10:38:30,382 INFO 2410 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:38:30,401 INFO 2410 [egg-security] use csrf middleware
+2022-06-18 10:38:30,405 INFO 2410 [egg-security] use methodnoallow middleware
+2022-06-18 10:38:30,409 INFO 2410 [egg-security] use noopen middleware
+2022-06-18 10:38:30,410 INFO 2410 [egg-security] use nosniff middleware
+2022-06-18 10:38:30,412 INFO 2410 [egg-security] use xssProtection middleware
+2022-06-18 10:38:30,421 INFO 2410 [egg-security] use xframe middleware
+2022-06-18 10:38:30,429 INFO 2410 [egg-security] use dta middleware
+2022-06-18 10:38:30,429 INFO 2410 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:38:30,456 INFO 2410 [egg:core] dump config after load, 5ms
+2022-06-18 10:38:30,469 INFO 2410 [egg-watcher:application] watcher start success
+2022-06-18 10:38:30,476 INFO 2410 [egg:core] dump config after ready, 5ms
+2022-06-18 10:39:52,638 INFO 2424 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:39:52,793 INFO 2424 [egg-multipart] stream mode enable
+2022-06-18 10:39:54,395 INFO 2424 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:39:54,424 INFO 2424 [egg-security] use csrf middleware
+2022-06-18 10:39:54,461 INFO 2424 [egg-security] use methodnoallow middleware
+2022-06-18 10:39:54,476 INFO 2424 [egg-security] use noopen middleware
+2022-06-18 10:39:54,477 INFO 2424 [egg-security] use nosniff middleware
+2022-06-18 10:39:54,490 INFO 2424 [egg-security] use xssProtection middleware
+2022-06-18 10:39:54,498 INFO 2424 [egg-security] use xframe middleware
+2022-06-18 10:39:54,507 INFO 2424 [egg-security] use dta middleware
+2022-06-18 10:39:54,507 INFO 2424 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:39:54,515 INFO 2424 [egg:core] dump config after load, 4ms
+2022-06-18 10:39:54,529 INFO 2424 [egg-watcher:application] watcher start success
+2022-06-18 10:39:54,535 INFO 2424 [egg:core] dump config after ready, 5ms
+2022-06-18 10:39:55,478 INFO 2426 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:39:55,514 INFO 2426 [egg-multipart] stream mode enable
+2022-06-18 10:39:55,588 INFO 2426 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:39:55,591 INFO 2426 [egg-security] use csrf middleware
+2022-06-18 10:39:55,592 INFO 2426 [egg-security] use methodnoallow middleware
+2022-06-18 10:39:55,592 INFO 2426 [egg-security] use noopen middleware
+2022-06-18 10:39:55,593 INFO 2426 [egg-security] use nosniff middleware
+2022-06-18 10:39:55,593 INFO 2426 [egg-security] use xssProtection middleware
+2022-06-18 10:39:55,594 INFO 2426 [egg-security] use xframe middleware
+2022-06-18 10:39:55,594 INFO 2426 [egg-security] use dta middleware
+2022-06-18 10:39:55,594 INFO 2426 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:39:55,604 INFO 2426 [egg:core] dump config after load, 5ms
+2022-06-18 10:39:55,619 INFO 2426 [egg-watcher:application] watcher start success
+2022-06-18 10:39:55,627 INFO 2426 [egg:core] dump config after ready, 6ms
+2022-06-18 10:40:52,960 INFO 2431 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:40:53,020 INFO 2431 [egg-multipart] stream mode enable
+2022-06-18 10:40:53,115 INFO 2431 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:40:53,117 INFO 2431 [egg-security] use csrf middleware
+2022-06-18 10:40:53,118 INFO 2431 [egg-security] use methodnoallow middleware
+2022-06-18 10:40:53,118 INFO 2431 [egg-security] use noopen middleware
+2022-06-18 10:40:53,119 INFO 2431 [egg-security] use nosniff middleware
+2022-06-18 10:40:53,119 INFO 2431 [egg-security] use xssProtection middleware
+2022-06-18 10:40:53,120 INFO 2431 [egg-security] use xframe middleware
+2022-06-18 10:40:53,120 INFO 2431 [egg-security] use dta middleware
+2022-06-18 10:40:53,120 INFO 2431 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:40:53,143 INFO 2431 [egg:core] dump config after load, 17ms
+2022-06-18 10:40:53,158 INFO 2431 [egg-watcher:application] watcher start success
+2022-06-18 10:40:53,166 INFO 2431 [egg:core] dump config after ready, 5ms
+2022-06-18 10:43:42,626 INFO 2446 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:43:42,684 INFO 2446 [egg-multipart] stream mode enable
+2022-06-18 10:43:42,795 INFO 2446 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:43:42,797 INFO 2446 [egg-security] use csrf middleware
+2022-06-18 10:43:42,798 INFO 2446 [egg-security] use methodnoallow middleware
+2022-06-18 10:43:42,798 INFO 2446 [egg-security] use noopen middleware
+2022-06-18 10:43:42,799 INFO 2446 [egg-security] use nosniff middleware
+2022-06-18 10:43:42,799 INFO 2446 [egg-security] use xssProtection middleware
+2022-06-18 10:43:42,799 INFO 2446 [egg-security] use xframe middleware
+2022-06-18 10:43:42,800 INFO 2446 [egg-security] use dta middleware
+2022-06-18 10:43:42,800 INFO 2446 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:43:42,809 INFO 2446 [egg:core] dump config after load, 4ms
+2022-06-18 10:43:42,821 INFO 2446 [egg-watcher:application] watcher start success
+2022-06-18 10:43:42,828 INFO 2446 [egg:core] dump config after ready, 5ms
+2022-06-18 10:43:44,694 INFO 2450 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:43:44,730 INFO 2450 [egg-multipart] stream mode enable
+2022-06-18 10:43:44,823 INFO 2450 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:43:44,826 INFO 2450 [egg-security] use csrf middleware
+2022-06-18 10:43:44,827 INFO 2450 [egg-security] use methodnoallow middleware
+2022-06-18 10:43:44,827 INFO 2450 [egg-security] use noopen middleware
+2022-06-18 10:43:44,828 INFO 2450 [egg-security] use nosniff middleware
+2022-06-18 10:43:44,829 INFO 2450 [egg-security] use xssProtection middleware
+2022-06-18 10:43:44,829 INFO 2450 [egg-security] use xframe middleware
+2022-06-18 10:43:44,829 INFO 2450 [egg-security] use dta middleware
+2022-06-18 10:43:44,830 INFO 2450 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:43:44,841 INFO 2450 [egg:core] dump config after load, 7ms
+2022-06-18 10:43:44,857 INFO 2450 [egg-watcher:application] watcher start success
+2022-06-18 10:43:44,896 INFO 2450 [egg:core] dump config after ready, 37ms
+2022-06-18 10:44:00,286 INFO 2453 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:44:00,314 INFO 2453 [egg-multipart] stream mode enable
+2022-06-18 10:44:00,387 INFO 2453 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:44:00,389 INFO 2453 [egg-security] use csrf middleware
+2022-06-18 10:44:00,390 INFO 2453 [egg-security] use methodnoallow middleware
+2022-06-18 10:44:00,390 INFO 2453 [egg-security] use noopen middleware
+2022-06-18 10:44:00,391 INFO 2453 [egg-security] use nosniff middleware
+2022-06-18 10:44:00,391 INFO 2453 [egg-security] use xssProtection middleware
+2022-06-18 10:44:00,391 INFO 2453 [egg-security] use xframe middleware
+2022-06-18 10:44:00,392 INFO 2453 [egg-security] use dta middleware
+2022-06-18 10:44:00,392 INFO 2453 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:44:00,402 INFO 2453 [egg:core] dump config after load, 5ms
+2022-06-18 10:44:00,414 INFO 2453 [egg-watcher:application] watcher start success
+2022-06-18 10:44:00,422 INFO 2453 [egg:core] dump config after ready, 6ms
+2022-06-18 10:44:29,084 INFO 2457 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:44:29,112 INFO 2457 [egg-multipart] stream mode enable
+2022-06-18 10:44:29,186 INFO 2457 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:44:29,188 INFO 2457 [egg-security] use csrf middleware
+2022-06-18 10:44:29,189 INFO 2457 [egg-security] use methodnoallow middleware
+2022-06-18 10:44:29,189 INFO 2457 [egg-security] use noopen middleware
+2022-06-18 10:44:29,190 INFO 2457 [egg-security] use nosniff middleware
+2022-06-18 10:44:29,190 INFO 2457 [egg-security] use xssProtection middleware
+2022-06-18 10:44:29,191 INFO 2457 [egg-security] use xframe middleware
+2022-06-18 10:44:29,191 INFO 2457 [egg-security] use dta middleware
+2022-06-18 10:44:29,191 INFO 2457 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:44:29,199 INFO 2457 [egg:core] dump config after load, 4ms
+2022-06-18 10:44:29,211 INFO 2457 [egg-watcher:application] watcher start success
+2022-06-18 10:44:29,222 INFO 2457 [egg:core] dump config after ready, 9ms
+2022-06-18 10:50:41,222 INFO 2748 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 10:50:41,302 INFO 2748 [egg-multipart] stream mode enable
+2022-06-18 10:50:41,449 INFO 2748 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 10:50:41,451 INFO 2748 [egg-security] use csrf middleware
+2022-06-18 10:50:41,452 INFO 2748 [egg-security] use methodnoallow middleware
+2022-06-18 10:50:41,452 INFO 2748 [egg-security] use noopen middleware
+2022-06-18 10:50:41,453 INFO 2748 [egg-security] use nosniff middleware
+2022-06-18 10:50:41,453 INFO 2748 [egg-security] use xssProtection middleware
+2022-06-18 10:50:41,454 INFO 2748 [egg-security] use xframe middleware
+2022-06-18 10:50:41,454 INFO 2748 [egg-security] use dta middleware
+2022-06-18 10:50:41,454 INFO 2748 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 10:50:41,483 INFO 2748 [egg:core] dump config after load, 22ms
+2022-06-18 10:50:41,506 INFO 2748 [egg-watcher:application] watcher start success
+2022-06-18 10:50:41,522 INFO 2748 [egg:core] dump config after ready, 11ms
+2022-06-18 12:39:49,609 INFO 4847 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:39:49,817 INFO 4847 [egg-multipart] stream mode enable
+2022-06-18 12:39:52,173 INFO 4847 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:39:52,224 INFO 4847 [egg-security] use csrf middleware
+2022-06-18 12:39:52,229 INFO 4847 [egg-security] use methodnoallow middleware
+2022-06-18 12:39:52,232 INFO 4847 [egg-security] use noopen middleware
+2022-06-18 12:39:52,233 INFO 4847 [egg-security] use nosniff middleware
+2022-06-18 12:39:52,246 INFO 4847 [egg-security] use xssProtection middleware
+2022-06-18 12:39:52,254 INFO 4847 [egg-security] use xframe middleware
+2022-06-18 12:39:52,263 INFO 4847 [egg-security] use dta middleware
+2022-06-18 12:39:52,263 INFO 4847 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:39:52,355 INFO 4847 [egg:core] dump config after load, 51ms
+2022-06-18 12:39:52,491 INFO 4847 [egg-watcher:application] watcher start success
+2022-06-18 12:39:52,544 INFO 4847 [egg:core] dump config after ready, 25ms
+2022-06-18 12:40:03,338 INFO 4852 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:40:03,428 INFO 4852 [egg-multipart] stream mode enable
+2022-06-18 12:40:04,861 INFO 4852 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:40:04,880 INFO 4852 [egg-security] use csrf middleware
+2022-06-18 12:40:04,906 INFO 4852 [egg-security] use methodnoallow middleware
+2022-06-18 12:40:04,910 INFO 4852 [egg-security] use noopen middleware
+2022-06-18 12:40:04,911 INFO 4852 [egg-security] use nosniff middleware
+2022-06-18 12:40:04,924 INFO 4852 [egg-security] use xssProtection middleware
+2022-06-18 12:40:04,932 INFO 4852 [egg-security] use xframe middleware
+2022-06-18 12:40:04,941 INFO 4852 [egg-security] use dta middleware
+2022-06-18 12:40:04,941 INFO 4852 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:40:04,986 INFO 4852 [egg:core] dump config after load, 4ms
+2022-06-18 12:40:05,001 INFO 4852 [egg-watcher:application] watcher start success
+2022-06-18 12:40:05,008 INFO 4852 [egg:core] dump config after ready, 5ms
+2022-06-18 12:48:52,179 INFO 5245 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:48:52,347 INFO 5245 [egg-multipart] stream mode enable
+2022-06-18 12:48:54,415 INFO 5245 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:48:54,434 INFO 5245 [egg-security] use csrf middleware
+2022-06-18 12:48:54,449 INFO 5245 [egg-security] use methodnoallow middleware
+2022-06-18 12:48:54,452 INFO 5245 [egg-security] use noopen middleware
+2022-06-18 12:48:54,453 INFO 5245 [egg-security] use nosniff middleware
+2022-06-18 12:48:54,467 INFO 5245 [egg-security] use xssProtection middleware
+2022-06-18 12:48:54,475 INFO 5245 [egg-security] use xframe middleware
+2022-06-18 12:48:54,484 INFO 5245 [egg-security] use dta middleware
+2022-06-18 12:48:54,484 INFO 5245 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:48:54,565 INFO 5245 [egg:core] dump config after load, 40ms
+2022-06-18 12:48:54,578 INFO 5245 [egg-watcher:application] watcher start success
+2022-06-18 12:48:54,584 INFO 5245 [egg:core] dump config after ready, 5ms
+2022-06-18 12:49:01,301 INFO 5250 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:49:01,427 INFO 5250 [egg-multipart] stream mode enable
+2022-06-18 12:49:03,240 INFO 5250 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:49:03,259 INFO 5250 [egg-security] use csrf middleware
+2022-06-18 12:49:03,284 INFO 5250 [egg-security] use methodnoallow middleware
+2022-06-18 12:49:03,288 INFO 5250 [egg-security] use noopen middleware
+2022-06-18 12:49:03,289 INFO 5250 [egg-security] use nosniff middleware
+2022-06-18 12:49:03,336 INFO 5250 [egg-security] use xssProtection middleware
+2022-06-18 12:49:03,345 INFO 5250 [egg-security] use xframe middleware
+2022-06-18 12:49:03,353 INFO 5250 [egg-security] use dta middleware
+2022-06-18 12:49:03,353 INFO 5250 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:49:03,433 INFO 5250 [egg:core] dump config after load, 5ms
+2022-06-18 12:49:03,452 INFO 5250 [egg-watcher:application] watcher start success
+2022-06-18 12:49:03,514 INFO 5250 [egg:core] dump config after ready, 59ms
+2022-06-18 12:52:47,379 INFO 5265 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:52:47,508 INFO 5265 [egg-multipart] stream mode enable
+2022-06-18 12:52:48,810 INFO 5265 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:52:48,828 INFO 5265 [egg-security] use csrf middleware
+2022-06-18 12:52:48,855 INFO 5265 [egg-security] use methodnoallow middleware
+2022-06-18 12:52:48,858 INFO 5265 [egg-security] use noopen middleware
+2022-06-18 12:52:48,859 INFO 5265 [egg-security] use nosniff middleware
+2022-06-18 12:52:48,861 INFO 5265 [egg-security] use xssProtection middleware
+2022-06-18 12:52:48,892 INFO 5265 [egg-security] use xframe middleware
+2022-06-18 12:52:48,900 INFO 5265 [egg-security] use dta middleware
+2022-06-18 12:52:48,900 INFO 5265 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:52:48,971 INFO 5265 [egg:core] dump config after load, 31ms
+2022-06-18 12:52:48,984 INFO 5265 [egg-watcher:application] watcher start success
+2022-06-18 12:52:48,996 INFO 5265 [egg:core] dump config after ready, 11ms
+2022-06-18 12:53:17,375 INFO 5271 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:53:17,498 INFO 5271 [egg-multipart] stream mode enable
+2022-06-18 12:53:18,989 INFO 5271 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:53:18,995 INFO 5271 [egg-security] use csrf middleware
+2022-06-18 12:53:19,021 INFO 5271 [egg-security] use methodnoallow middleware
+2022-06-18 12:53:19,025 INFO 5271 [egg-security] use noopen middleware
+2022-06-18 12:53:19,026 INFO 5271 [egg-security] use nosniff middleware
+2022-06-18 12:53:19,028 INFO 5271 [egg-security] use xssProtection middleware
+2022-06-18 12:53:19,036 INFO 5271 [egg-security] use xframe middleware
+2022-06-18 12:53:19,045 INFO 5271 [egg-security] use dta middleware
+2022-06-18 12:53:19,045 INFO 5271 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:53:19,091 INFO 5271 [egg:core] dump config after load, 6ms
+2022-06-18 12:53:19,105 INFO 5271 [egg-watcher:application] watcher start success
+2022-06-18 12:53:19,141 INFO 5271 [egg:core] dump config after ready, 34ms
+2022-06-18 12:54:05,898 INFO 5274 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:54:06,043 INFO 5274 [egg-multipart] stream mode enable
+2022-06-18 12:54:07,657 INFO 5274 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:54:07,673 INFO 5274 [egg-security] use csrf middleware
+2022-06-18 12:54:07,688 INFO 5274 [egg-security] use methodnoallow middleware
+2022-06-18 12:54:07,714 INFO 5274 [egg-security] use noopen middleware
+2022-06-18 12:54:07,715 INFO 5274 [egg-security] use nosniff middleware
+2022-06-18 12:54:07,761 INFO 5274 [egg-security] use xssProtection middleware
+2022-06-18 12:54:07,780 INFO 5274 [egg-security] use xframe middleware
+2022-06-18 12:54:07,812 INFO 5274 [egg-security] use dta middleware
+2022-06-18 12:54:07,812 INFO 5274 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:54:07,949 INFO 5274 [egg:core] dump config after load, 30ms
+2022-06-18 12:54:07,965 INFO 5274 [egg-watcher:application] watcher start success
+2022-06-18 12:54:08,010 INFO 5274 [egg:core] dump config after ready, 43ms
+2022-06-18 12:54:55,800 INFO 5281 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:54:55,955 INFO 5281 [egg-multipart] stream mode enable
+2022-06-18 12:54:57,244 INFO 5281 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:54:57,250 INFO 5281 [egg-security] use csrf middleware
+2022-06-18 12:54:57,277 INFO 5281 [egg-security] use methodnoallow middleware
+2022-06-18 12:54:57,280 INFO 5281 [egg-security] use noopen middleware
+2022-06-18 12:54:57,281 INFO 5281 [egg-security] use nosniff middleware
+2022-06-18 12:54:57,284 INFO 5281 [egg-security] use xssProtection middleware
+2022-06-18 12:54:57,292 INFO 5281 [egg-security] use xframe middleware
+2022-06-18 12:54:57,301 INFO 5281 [egg-security] use dta middleware
+2022-06-18 12:54:57,301 INFO 5281 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:55:00,482 INFO 5281 [egg:core] dump config after load, 29ms
+2022-06-18 12:55:00,499 INFO 5281 [egg-watcher:application] watcher start success
+2022-06-18 12:55:00,519 INFO 5281 [egg:core] dump config after ready, 16ms
+2022-06-18 12:58:45,549 INFO 5403 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 12:58:45,577 INFO 5403 [egg-multipart] stream mode enable
+2022-06-18 12:58:48,100 INFO 5403 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 12:58:48,118 INFO 5403 [egg-security] use csrf middleware
+2022-06-18 12:58:48,121 INFO 5403 [egg-security] use methodnoallow middleware
+2022-06-18 12:58:48,125 INFO 5403 [egg-security] use noopen middleware
+2022-06-18 12:58:48,126 INFO 5403 [egg-security] use nosniff middleware
+2022-06-18 12:58:48,140 INFO 5403 [egg-security] use xssProtection middleware
+2022-06-18 12:58:48,147 INFO 5403 [egg-security] use xframe middleware
+2022-06-18 12:58:48,156 INFO 5403 [egg-security] use dta middleware
+2022-06-18 12:58:48,156 INFO 5403 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 12:58:49,934 INFO 5403 [egg:core] dump config after load, 15ms
+2022-06-18 12:58:49,950 INFO 5403 [egg-watcher:application] watcher start success
+2022-06-18 12:58:49,989 INFO 5403 [egg:core] dump config after ready, 37ms
+2022-06-18 13:02:05,841 INFO 5416 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:02:06,010 INFO 5416 [egg-multipart] stream mode enable
+2022-06-18 13:02:07,489 INFO 5416 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:02:07,518 INFO 5416 [egg-security] use csrf middleware
+2022-06-18 13:02:07,533 INFO 5416 [egg-security] use methodnoallow middleware
+2022-06-18 13:02:07,549 INFO 5416 [egg-security] use noopen middleware
+2022-06-18 13:02:07,552 INFO 5416 [egg-security] use nosniff middleware
+2022-06-18 13:02:07,573 INFO 5416 [egg-security] use xssProtection middleware
+2022-06-18 13:02:07,581 INFO 5416 [egg-security] use xframe middleware
+2022-06-18 13:02:07,601 INFO 5416 [egg-security] use dta middleware
+2022-06-18 13:02:07,601 INFO 5416 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:02:13,033 INFO 5416 [egg:core] dump config after load, 46ms
+2022-06-18 13:02:13,049 INFO 5416 [egg-watcher:application] watcher start success
+2022-06-18 13:02:13,064 INFO 5416 [egg:core] dump config after ready, 11ms
+2022-06-18 13:02:23,822 INFO 5421 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:02:23,933 INFO 5421 [egg-multipart] stream mode enable
+2022-06-18 13:02:25,643 INFO 5421 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:02:25,674 INFO 5421 [egg-security] use csrf middleware
+2022-06-18 13:02:25,677 INFO 5421 [egg-security] use methodnoallow middleware
+2022-06-18 13:02:25,681 INFO 5421 [egg-security] use noopen middleware
+2022-06-18 13:02:25,682 INFO 5421 [egg-security] use nosniff middleware
+2022-06-18 13:02:25,684 INFO 5421 [egg-security] use xssProtection middleware
+2022-06-18 13:02:25,692 INFO 5421 [egg-security] use xframe middleware
+2022-06-18 13:02:25,701 INFO 5421 [egg-security] use dta middleware
+2022-06-18 13:02:25,701 INFO 5421 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:02:27,303 INFO 5421 [egg:core] dump config after load, 6ms
+2022-06-18 13:02:27,322 INFO 5421 [egg-watcher:application] watcher start success
+2022-06-18 13:02:27,330 INFO 5421 [egg:core] dump config after ready, 6ms
+2022-06-18 13:02:39,320 INFO 5423 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:02:39,420 INFO 5423 [egg-multipart] stream mode enable
+2022-06-18 13:02:41,211 INFO 5423 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:02:41,229 INFO 5423 [egg-security] use csrf middleware
+2022-06-18 13:02:41,233 INFO 5423 [egg-security] use methodnoallow middleware
+2022-06-18 13:02:41,237 INFO 5423 [egg-security] use noopen middleware
+2022-06-18 13:02:41,237 INFO 5423 [egg-security] use nosniff middleware
+2022-06-18 13:02:41,251 INFO 5423 [egg-security] use xssProtection middleware
+2022-06-18 13:02:41,270 INFO 5423 [egg-security] use xframe middleware
+2022-06-18 13:02:41,290 INFO 5423 [egg-security] use dta middleware
+2022-06-18 13:02:41,290 INFO 5423 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:02:43,491 INFO 5423 [egg:core] dump config after load, 5ms
+2022-06-18 13:02:43,507 INFO 5423 [egg-watcher:application] watcher start success
+2022-06-18 13:02:43,518 INFO 5423 [egg:core] dump config after ready, 7ms
+2022-06-18 13:02:50,529 INFO 5429 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:02:50,677 INFO 5429 [egg-multipart] stream mode enable
+2022-06-18 13:02:52,319 INFO 5429 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:02:52,352 INFO 5429 [egg-security] use csrf middleware
+2022-06-18 13:02:52,366 INFO 5429 [egg-security] use methodnoallow middleware
+2022-06-18 13:02:52,370 INFO 5429 [egg-security] use noopen middleware
+2022-06-18 13:02:52,375 INFO 5429 [egg-security] use nosniff middleware
+2022-06-18 13:02:52,384 INFO 5429 [egg-security] use xssProtection middleware
+2022-06-18 13:02:52,392 INFO 5429 [egg-security] use xframe middleware
+2022-06-18 13:02:52,401 INFO 5429 [egg-security] use dta middleware
+2022-06-18 13:02:52,401 INFO 5429 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:02:55,758 INFO 5429 [egg:core] dump config after load, 5ms
+2022-06-18 13:02:55,773 INFO 5429 [egg-watcher:application] watcher start success
+2022-06-18 13:02:55,877 INFO 5429 [egg:core] dump config after ready, 101ms
+2022-06-18 13:03:33,454 INFO 5456 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:03:33,482 INFO 5456 [egg-multipart] stream mode enable
+2022-06-18 13:03:33,547 INFO 5456 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:03:33,549 INFO 5456 [egg-security] use csrf middleware
+2022-06-18 13:03:33,550 INFO 5456 [egg-security] use methodnoallow middleware
+2022-06-18 13:03:33,550 INFO 5456 [egg-security] use noopen middleware
+2022-06-18 13:03:33,551 INFO 5456 [egg-security] use nosniff middleware
+2022-06-18 13:03:33,551 INFO 5456 [egg-security] use xssProtection middleware
+2022-06-18 13:03:33,552 INFO 5456 [egg-security] use xframe middleware
+2022-06-18 13:03:33,552 INFO 5456 [egg-security] use dta middleware
+2022-06-18 13:03:33,552 INFO 5456 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:03:35,736 INFO 5456 [egg:core] dump config after load, 5ms
+2022-06-18 13:03:35,752 INFO 5456 [egg-watcher:application] watcher start success
+2022-06-18 13:03:35,759 INFO 5456 [egg:core] dump config after ready, 5ms
+2022-06-18 13:04:53,089 ERROR 5456 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5456
+hostname: 192.168.16.104
+
+2022-06-18 13:05:21,676 ERROR 5456 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5456
+hostname: 192.168.16.104
+
+2022-06-18 13:05:27,275 INFO 5470 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:05:27,386 INFO 5470 [egg-multipart] stream mode enable
+2022-06-18 13:05:29,098 INFO 5470 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:05:29,117 INFO 5470 [egg-security] use csrf middleware
+2022-06-18 13:05:29,120 INFO 5470 [egg-security] use methodnoallow middleware
+2022-06-18 13:05:29,124 INFO 5470 [egg-security] use noopen middleware
+2022-06-18 13:05:29,126 INFO 5470 [egg-security] use nosniff middleware
+2022-06-18 13:05:29,139 INFO 5470 [egg-security] use xssProtection middleware
+2022-06-18 13:05:29,147 INFO 5470 [egg-security] use xframe middleware
+2022-06-18 13:05:29,155 INFO 5470 [egg-security] use dta middleware
+2022-06-18 13:05:29,156 INFO 5470 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:05:31,492 INFO 5470 [egg:core] dump config after load, 58ms
+2022-06-18 13:05:31,508 INFO 5470 [egg-watcher:application] watcher start success
+2022-06-18 13:05:31,688 INFO 5470 [egg:core] dump config after ready, 177ms
+2022-06-18 13:05:45,464 INFO 5474 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:05:45,586 INFO 5474 [egg-multipart] stream mode enable
+2022-06-18 13:05:47,099 INFO 5474 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:05:47,106 INFO 5474 [egg-security] use csrf middleware
+2022-06-18 13:05:47,110 INFO 5474 [egg-security] use methodnoallow middleware
+2022-06-18 13:05:47,113 INFO 5474 [egg-security] use noopen middleware
+2022-06-18 13:05:47,114 INFO 5474 [egg-security] use nosniff middleware
+2022-06-18 13:05:47,116 INFO 5474 [egg-security] use xssProtection middleware
+2022-06-18 13:05:47,124 INFO 5474 [egg-security] use xframe middleware
+2022-06-18 13:05:47,144 INFO 5474 [egg-security] use dta middleware
+2022-06-18 13:05:47,144 INFO 5474 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:05:48,816 INFO 5474 [egg:core] dump config after load, 4ms
+2022-06-18 13:05:48,835 INFO 5474 [egg-watcher:application] watcher start success
+2022-06-18 13:05:48,852 INFO 5474 [egg:core] dump config after ready, 14ms
+2022-06-18 13:06:19,008 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:06:19,503 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:06:35,322 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:06:59,411 ERROR 5474 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5474
+hostname: 192.168.16.104
+
+2022-06-18 13:10:03,260 INFO 5539 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:10:03,293 INFO 5539 [egg-multipart] stream mode enable
+2022-06-18 13:10:05,976 INFO 5539 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:10:05,995 INFO 5539 [egg-security] use csrf middleware
+2022-06-18 13:10:05,999 INFO 5539 [egg-security] use methodnoallow middleware
+2022-06-18 13:10:06,025 INFO 5539 [egg-security] use noopen middleware
+2022-06-18 13:10:06,029 INFO 5539 [egg-security] use nosniff middleware
+2022-06-18 13:10:06,039 INFO 5539 [egg-security] use xssProtection middleware
+2022-06-18 13:10:06,047 INFO 5539 [egg-security] use xframe middleware
+2022-06-18 13:10:06,056 INFO 5539 [egg-security] use dta middleware
+2022-06-18 13:10:06,056 INFO 5539 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:10:08,841 INFO 5539 [egg:core] dump config after load, 7ms
+2022-06-18 13:10:08,861 INFO 5539 [egg-watcher:application] watcher start success
+2022-06-18 13:10:08,905 INFO 5539 [egg:core] dump config after ready, 42ms
+2022-06-18 13:11:04,868 ERROR 5539 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5539
+hostname: 192.168.16.104
+
+2022-06-18 13:11:07,038 ERROR 5539 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5539
+hostname: 192.168.16.104
+
+2022-06-18 13:11:26,823 ERROR 5539 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5539
+hostname: 192.168.16.104
+
+2022-06-18 13:15:51,884 INFO 5586 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:15:51,988 INFO 5586 [egg-multipart] stream mode enable
+2022-06-18 13:15:55,221 INFO 5586 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:15:55,240 INFO 5586 [egg-security] use csrf middleware
+2022-06-18 13:15:55,277 INFO 5586 [egg-security] use methodnoallow middleware
+2022-06-18 13:15:55,303 INFO 5586 [egg-security] use noopen middleware
+2022-06-18 13:15:55,304 INFO 5586 [egg-security] use nosniff middleware
+2022-06-18 13:15:55,318 INFO 5586 [egg-security] use xssProtection middleware
+2022-06-18 13:15:55,326 INFO 5586 [egg-security] use xframe middleware
+2022-06-18 13:15:55,334 INFO 5586 [egg-security] use dta middleware
+2022-06-18 13:15:55,335 INFO 5586 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:15:57,016 INFO 5586 [egg:core] dump config after load, 40ms
+2022-06-18 13:15:57,032 INFO 5586 [egg-watcher:application] watcher start success
+2022-06-18 13:15:57,074 INFO 5586 [egg:core] dump config after ready, 38ms
+2022-06-18 13:16:24,838 INFO 5642 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:16:24,868 INFO 5642 [egg-multipart] stream mode enable
+2022-06-18 13:16:26,444 INFO 5642 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:16:26,462 INFO 5642 [egg-security] use csrf middleware
+2022-06-18 13:16:26,477 INFO 5642 [egg-security] use methodnoallow middleware
+2022-06-18 13:16:26,481 INFO 5642 [egg-security] use noopen middleware
+2022-06-18 13:16:26,482 INFO 5642 [egg-security] use nosniff middleware
+2022-06-18 13:16:26,496 INFO 5642 [egg-security] use xssProtection middleware
+2022-06-18 13:16:26,503 INFO 5642 [egg-security] use xframe middleware
+2022-06-18 13:16:26,512 INFO 5642 [egg-security] use dta middleware
+2022-06-18 13:16:26,512 INFO 5642 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:16:28,514 INFO 5642 [egg:core] dump config after load, 6ms
+2022-06-18 13:16:28,532 INFO 5642 [egg-watcher:application] watcher start success
+2022-06-18 13:16:28,552 INFO 5642 [egg:core] dump config after ready, 18ms
+2022-06-18 13:17:02,324 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:17:21,419 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:18:04,302 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:18:28,629 ERROR 5642 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5642
+hostname: 192.168.16.104
+
+2022-06-18 13:19:22,410 INFO 5653 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:19:22,580 INFO 5653 [egg-multipart] stream mode enable
+2022-06-18 13:19:24,037 INFO 5653 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:19:24,055 INFO 5653 [egg-security] use csrf middleware
+2022-06-18 13:19:24,059 INFO 5653 [egg-security] use methodnoallow middleware
+2022-06-18 13:19:24,063 INFO 5653 [egg-security] use noopen middleware
+2022-06-18 13:19:24,064 INFO 5653 [egg-security] use nosniff middleware
+2022-06-18 13:19:24,066 INFO 5653 [egg-security] use xssProtection middleware
+2022-06-18 13:19:24,074 INFO 5653 [egg-security] use xframe middleware
+2022-06-18 13:19:24,083 INFO 5653 [egg-security] use dta middleware
+2022-06-18 13:19:24,083 INFO 5653 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:19:25,953 INFO 5653 [egg:core] dump config after load, 18ms
+2022-06-18 13:19:25,970 INFO 5653 [egg-watcher:application] watcher start success
+2022-06-18 13:19:25,990 INFO 5653 [egg:core] dump config after ready, 17ms
+2022-06-18 13:19:36,413 INFO 5656 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:19:36,503 INFO 5656 [egg-multipart] stream mode enable
+2022-06-18 13:19:38,573 INFO 5656 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:19:38,589 INFO 5656 [egg-security] use csrf middleware
+2022-06-18 13:19:38,626 INFO 5656 [egg-security] use methodnoallow middleware
+2022-06-18 13:19:38,652 INFO 5656 [egg-security] use noopen middleware
+2022-06-18 13:19:38,679 INFO 5656 [egg-security] use nosniff middleware
+2022-06-18 13:19:38,701 INFO 5656 [egg-security] use xssProtection middleware
+2022-06-18 13:19:38,719 INFO 5656 [egg-security] use xframe middleware
+2022-06-18 13:19:38,728 INFO 5656 [egg-security] use dta middleware
+2022-06-18 13:19:38,728 INFO 5656 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:19:41,884 INFO 5656 [egg:core] dump config after load, 5ms
+2022-06-18 13:19:41,904 INFO 5656 [egg-watcher:application] watcher start success
+2022-06-18 13:19:41,921 INFO 5656 [egg:core] dump config after ready, 7ms
+2022-06-18 13:20:13,880 ERROR 5656 nodejs.MongoServerSelectionError: getaddrinfo ENOTFOUND yanghuimin
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5656
+hostname: 192.168.16.104
+
+2022-06-18 13:23:38,049 INFO 5673 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:23:38,659 INFO 5673 [egg-multipart] stream mode enable
+2022-06-18 13:23:44,579 INFO 5673 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:23:44,612 INFO 5673 [egg-security] use csrf middleware
+2022-06-18 13:23:44,783 INFO 5673 [egg-security] use methodnoallow middleware
+2022-06-18 13:23:44,810 INFO 5673 [egg-security] use noopen middleware
+2022-06-18 13:23:44,825 INFO 5673 [egg-security] use nosniff middleware
+2022-06-18 13:23:44,846 INFO 5673 [egg-security] use xssProtection middleware
+2022-06-18 13:23:44,864 INFO 5673 [egg-security] use xframe middleware
+2022-06-18 13:23:44,896 INFO 5673 [egg-security] use dta middleware
+2022-06-18 13:23:44,896 INFO 5673 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:23:50,089 INFO 5673 [egg:core] dump config after load, 30ms
+2022-06-18 13:23:50,110 INFO 5673 [egg-watcher:application] watcher start success
+2022-06-18 13:23:50,125 INFO 5673 [egg:core] dump config after ready, 13ms
+2022-06-18 13:24:03,548 INFO 5686 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:24:03,648 INFO 5686 [egg-multipart] stream mode enable
+2022-06-18 13:24:05,206 INFO 5686 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:24:05,234 INFO 5686 [egg-security] use csrf middleware
+2022-06-18 13:24:05,238 INFO 5686 [egg-security] use methodnoallow middleware
+2022-06-18 13:24:05,242 INFO 5686 [egg-security] use noopen middleware
+2022-06-18 13:24:05,243 INFO 5686 [egg-security] use nosniff middleware
+2022-06-18 13:24:05,256 INFO 5686 [egg-security] use xssProtection middleware
+2022-06-18 13:24:05,275 INFO 5686 [egg-security] use xframe middleware
+2022-06-18 13:24:05,285 INFO 5686 [egg-security] use dta middleware
+2022-06-18 13:24:05,285 INFO 5686 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:24:06,384 INFO 5686 [egg:core] dump config after load, 5ms
+2022-06-18 13:24:06,410 INFO 5686 [egg-watcher:application] watcher start success
+2022-06-18 13:24:06,423 INFO 5686 [egg:core] dump config after ready, 10ms
+2022-06-18 13:24:36,590 ERROR 5686 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5686
+hostname: 192.168.16.104
+
+2022-06-18 13:25:50,016 INFO 5704 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:25:50,138 INFO 5704 [egg-multipart] stream mode enable
+2022-06-18 13:25:51,561 INFO 5704 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:25:51,568 INFO 5704 [egg-security] use csrf middleware
+2022-06-18 13:25:51,572 INFO 5704 [egg-security] use methodnoallow middleware
+2022-06-18 13:25:51,575 INFO 5704 [egg-security] use noopen middleware
+2022-06-18 13:25:51,576 INFO 5704 [egg-security] use nosniff middleware
+2022-06-18 13:25:51,579 INFO 5704 [egg-security] use xssProtection middleware
+2022-06-18 13:25:51,609 INFO 5704 [egg-security] use xframe middleware
+2022-06-18 13:25:51,618 INFO 5704 [egg-security] use dta middleware
+2022-06-18 13:25:51,618 INFO 5704 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:25:52,400 INFO 5704 [egg:core] dump config after load, 15ms
+2022-06-18 13:25:52,415 INFO 5704 [egg-watcher:application] watcher start success
+2022-06-18 13:25:52,437 INFO 5704 [egg:core] dump config after ready, 16ms
+2022-06-18 13:25:58,044 INFO 5707 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:25:58,096 INFO 5707 [egg-multipart] stream mode enable
+2022-06-18 13:25:58,839 INFO 5707 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:25:58,857 INFO 5707 [egg-security] use csrf middleware
+2022-06-18 13:25:58,872 INFO 5707 [egg-security] use methodnoallow middleware
+2022-06-18 13:25:58,876 INFO 5707 [egg-security] use noopen middleware
+2022-06-18 13:25:58,876 INFO 5707 [egg-security] use nosniff middleware
+2022-06-18 13:25:58,890 INFO 5707 [egg-security] use xssProtection middleware
+2022-06-18 13:25:58,898 INFO 5707 [egg-security] use xframe middleware
+2022-06-18 13:25:58,907 INFO 5707 [egg-security] use dta middleware
+2022-06-18 13:25:58,907 INFO 5707 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:26:00,150 INFO 5707 [egg:core] dump config after load, 4ms
+2022-06-18 13:26:00,169 INFO 5707 [egg-watcher:application] watcher start success
+2022-06-18 13:26:00,179 INFO 5707 [egg:core] dump config after ready, 7ms
+2022-06-18 13:27:04,133 ERROR 5707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5707
+hostname: 192.168.16.104
+
+2022-06-18 13:29:51,735 INFO 5734 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:29:51,875 INFO 5734 [egg-multipart] stream mode enable
+2022-06-18 13:29:54,329 INFO 5734 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:29:54,336 INFO 5734 [egg-security] use csrf middleware
+2022-06-18 13:29:54,339 INFO 5734 [egg-security] use methodnoallow middleware
+2022-06-18 13:29:54,343 INFO 5734 [egg-security] use noopen middleware
+2022-06-18 13:29:54,344 INFO 5734 [egg-security] use nosniff middleware
+2022-06-18 13:29:54,357 INFO 5734 [egg-security] use xssProtection middleware
+2022-06-18 13:29:54,365 INFO 5734 [egg-security] use xframe middleware
+2022-06-18 13:29:54,374 INFO 5734 [egg-security] use dta middleware
+2022-06-18 13:29:54,374 INFO 5734 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:29:56,111 INFO 5734 [egg:core] dump config after load, 30ms
+2022-06-18 13:29:56,131 INFO 5734 [egg-watcher:application] watcher start success
+2022-06-18 13:29:56,148 INFO 5734 [egg:core] dump config after ready, 15ms
+2022-06-18 13:30:39,924 ERROR 5734 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5734
+hostname: 192.168.16.104
+
+2022-06-18 13:30:49,688 ERROR 5734 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5734
+hostname: 192.168.16.104
+
+2022-06-18 13:35:42,220 INFO 5782 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:35:42,354 INFO 5782 [egg-multipart] stream mode enable
+2022-06-18 13:35:43,676 INFO 5782 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:35:43,684 INFO 5782 [egg-security] use csrf middleware
+2022-06-18 13:35:43,688 INFO 5782 [egg-security] use methodnoallow middleware
+2022-06-18 13:35:43,691 INFO 5782 [egg-security] use noopen middleware
+2022-06-18 13:35:43,692 INFO 5782 [egg-security] use nosniff middleware
+2022-06-18 13:35:43,695 INFO 5782 [egg-security] use xssProtection middleware
+2022-06-18 13:35:43,703 INFO 5782 [egg-security] use xframe middleware
+2022-06-18 13:35:43,712 INFO 5782 [egg-security] use dta middleware
+2022-06-18 13:35:43,712 INFO 5782 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:35:46,126 INFO 5782 [egg:core] dump config after load, 18ms
+2022-06-18 13:35:46,146 INFO 5782 [egg-watcher:application] watcher start success
+2022-06-18 13:35:46,167 INFO 5782 [egg:core] dump config after ready, 17ms
+2022-06-18 13:35:57,797 INFO 5786 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:35:57,909 INFO 5786 [egg-multipart] stream mode enable
+2022-06-18 13:35:59,300 INFO 5786 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:35:59,328 INFO 5786 [egg-security] use csrf middleware
+2022-06-18 13:35:59,332 INFO 5786 [egg-security] use methodnoallow middleware
+2022-06-18 13:35:59,369 INFO 5786 [egg-security] use noopen middleware
+2022-06-18 13:35:59,370 INFO 5786 [egg-security] use nosniff middleware
+2022-06-18 13:35:59,373 INFO 5786 [egg-security] use xssProtection middleware
+2022-06-18 13:35:59,380 INFO 5786 [egg-security] use xframe middleware
+2022-06-18 13:35:59,390 INFO 5786 [egg-security] use dta middleware
+2022-06-18 13:35:59,390 INFO 5786 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:36:01,590 INFO 5786 [egg:core] dump config after load, 5ms
+2022-06-18 13:36:01,606 INFO 5786 [egg-watcher:application] watcher start success
+2022-06-18 13:36:01,616 INFO 5786 [egg:core] dump config after ready, 6ms
+2022-06-18 13:39:39,947 INFO 5870 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:39:39,975 INFO 5870 [egg-multipart] stream mode enable
+2022-06-18 13:39:41,510 INFO 5870 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:39:41,529 INFO 5870 [egg-security] use csrf middleware
+2022-06-18 13:39:41,533 INFO 5870 [egg-security] use methodnoallow middleware
+2022-06-18 13:39:41,536 INFO 5870 [egg-security] use noopen middleware
+2022-06-18 13:39:41,537 INFO 5870 [egg-security] use nosniff middleware
+2022-06-18 13:39:41,540 INFO 5870 [egg-security] use xssProtection middleware
+2022-06-18 13:39:41,548 INFO 5870 [egg-security] use xframe middleware
+2022-06-18 13:39:41,556 INFO 5870 [egg-security] use dta middleware
+2022-06-18 13:39:41,557 INFO 5870 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:39:43,203 INFO 5870 [egg:core] dump config after load, 5ms
+2022-06-18 13:39:43,222 INFO 5870 [egg-watcher:application] watcher start success
+2022-06-18 13:39:43,232 INFO 5870 [egg:core] dump config after ready, 7ms
+2022-06-18 13:50:49,160 INFO 5912 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:50:49,283 INFO 5912 [egg-multipart] stream mode enable
+2022-06-18 13:50:51,051 INFO 5912 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:50:51,080 INFO 5912 [egg-security] use csrf middleware
+2022-06-18 13:50:51,084 INFO 5912 [egg-security] use methodnoallow middleware
+2022-06-18 13:50:51,088 INFO 5912 [egg-security] use noopen middleware
+2022-06-18 13:50:51,088 INFO 5912 [egg-security] use nosniff middleware
+2022-06-18 13:50:51,091 INFO 5912 [egg-security] use xssProtection middleware
+2022-06-18 13:50:51,099 INFO 5912 [egg-security] use xframe middleware
+2022-06-18 13:50:51,108 INFO 5912 [egg-security] use dta middleware
+2022-06-18 13:50:51,108 INFO 5912 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:50:54,067 INFO 5912 [egg:core] dump config after load, 18ms
+2022-06-18 13:50:54,085 INFO 5912 [egg-watcher:application] watcher start success
+2022-06-18 13:50:54,108 INFO 5912 [egg:core] dump config after ready, 16ms
+2022-06-18 13:51:07,549 INFO 5915 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:51:07,742 INFO 5915 [egg-multipart] stream mode enable
+2022-06-18 13:51:10,551 INFO 5915 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:51:10,580 INFO 5915 [egg-security] use csrf middleware
+2022-06-18 13:51:10,584 INFO 5915 [egg-security] use methodnoallow middleware
+2022-06-18 13:51:10,588 INFO 5915 [egg-security] use noopen middleware
+2022-06-18 13:51:10,589 INFO 5915 [egg-security] use nosniff middleware
+2022-06-18 13:51:10,602 INFO 5915 [egg-security] use xssProtection middleware
+2022-06-18 13:51:10,610 INFO 5915 [egg-security] use xframe middleware
+2022-06-18 13:51:10,619 INFO 5915 [egg-security] use dta middleware
+2022-06-18 13:51:10,619 INFO 5915 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:51:12,198 INFO 5915 [egg:core] dump config after load, 4ms
+2022-06-18 13:51:12,216 INFO 5915 [egg-watcher:application] watcher start success
+2022-06-18 13:51:12,224 INFO 5915 [egg:core] dump config after ready, 6ms
+2022-06-18 13:51:42,394 ERROR 5915 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5915
+hostname: 192.168.16.104
+
+2022-06-18 13:54:13,345 INFO 5998 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:54:13,374 INFO 5998 [egg-multipart] stream mode enable
+2022-06-18 13:54:14,750 INFO 5998 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:54:14,758 INFO 5998 [egg-security] use csrf middleware
+2022-06-18 13:54:14,762 INFO 5998 [egg-security] use methodnoallow middleware
+2022-06-18 13:54:14,766 INFO 5998 [egg-security] use noopen middleware
+2022-06-18 13:54:14,767 INFO 5998 [egg-security] use nosniff middleware
+2022-06-18 13:54:14,769 INFO 5998 [egg-security] use xssProtection middleware
+2022-06-18 13:54:14,777 INFO 5998 [egg-security] use xframe middleware
+2022-06-18 13:54:14,786 INFO 5998 [egg-security] use dta middleware
+2022-06-18 13:54:14,786 INFO 5998 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:54:16,531 INFO 5998 [egg:core] dump config after load, 5ms
+2022-06-18 13:54:16,547 INFO 5998 [egg-watcher:application] watcher start success
+2022-06-18 13:54:16,571 INFO 5998 [egg:core] dump config after ready, 22ms
+2022-06-18 13:54:51,828 ERROR 5998 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5998
+hostname: 192.168.16.104
+
+2022-06-18 13:55:13,699 ERROR 5998 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 5998
+hostname: 192.168.16.104
+
+2022-06-18 13:59:24,905 INFO 6043 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 13:59:25,040 INFO 6043 [egg-multipart] stream mode enable
+2022-06-18 13:59:26,554 INFO 6043 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 13:59:26,570 INFO 6043 [egg-security] use csrf middleware
+2022-06-18 13:59:26,574 INFO 6043 [egg-security] use methodnoallow middleware
+2022-06-18 13:59:26,578 INFO 6043 [egg-security] use noopen middleware
+2022-06-18 13:59:26,579 INFO 6043 [egg-security] use nosniff middleware
+2022-06-18 13:59:26,592 INFO 6043 [egg-security] use xssProtection middleware
+2022-06-18 13:59:26,600 INFO 6043 [egg-security] use xframe middleware
+2022-06-18 13:59:26,609 INFO 6043 [egg-security] use dta middleware
+2022-06-18 13:59:26,609 INFO 6043 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 13:59:28,368 INFO 6043 [egg:core] dump config after load, 18ms
+2022-06-18 13:59:28,385 INFO 6043 [egg-watcher:application] watcher start success
+2022-06-18 13:59:28,413 INFO 6043 [egg:core] dump config after ready, 21ms
+2022-06-18 13:59:58,578 ERROR 6043 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6043
+hostname: 192.168.16.104
+
+2022-06-18 14:00:36,863 INFO 6086 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:00:36,892 INFO 6086 [egg-multipart] stream mode enable
+2022-06-18 14:00:39,207 INFO 6086 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:00:39,225 INFO 6086 [egg-security] use csrf middleware
+2022-06-18 14:00:39,252 INFO 6086 [egg-security] use methodnoallow middleware
+2022-06-18 14:00:39,278 INFO 6086 [egg-security] use noopen middleware
+2022-06-18 14:00:39,278 INFO 6086 [egg-security] use nosniff middleware
+2022-06-18 14:00:39,292 INFO 6086 [egg-security] use xssProtection middleware
+2022-06-18 14:00:39,300 INFO 6086 [egg-security] use xframe middleware
+2022-06-18 14:00:39,309 INFO 6086 [egg-security] use dta middleware
+2022-06-18 14:00:39,309 INFO 6086 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:00:41,164 INFO 6086 [egg:core] dump config after load, 4ms
+2022-06-18 14:00:41,181 INFO 6086 [egg-watcher:application] watcher start success
+2022-06-18 14:00:41,190 INFO 6086 [egg:core] dump config after ready, 7ms
+2022-06-18 14:02:17,866 ERROR 6086 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6086
+hostname: 192.168.16.104
+
+2022-06-18 14:02:27,397 ERROR 6086 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6086
+hostname: 192.168.16.104
+
+2022-06-18 14:05:55,902 INFO 6179 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:05:55,937 INFO 6179 [egg-multipart] stream mode enable
+2022-06-18 14:05:57,240 INFO 6179 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:05:57,248 INFO 6179 [egg-security] use csrf middleware
+2022-06-18 14:05:57,252 INFO 6179 [egg-security] use methodnoallow middleware
+2022-06-18 14:05:57,256 INFO 6179 [egg-security] use noopen middleware
+2022-06-18 14:05:57,256 INFO 6179 [egg-security] use nosniff middleware
+2022-06-18 14:05:57,259 INFO 6179 [egg-security] use xssProtection middleware
+2022-06-18 14:05:57,267 INFO 6179 [egg-security] use xframe middleware
+2022-06-18 14:05:57,276 INFO 6179 [egg-security] use dta middleware
+2022-06-18 14:05:57,276 INFO 6179 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:05:58,932 INFO 6179 [egg:core] dump config after load, 4ms
+2022-06-18 14:05:58,948 INFO 6179 [egg-watcher:application] watcher start success
+2022-06-18 14:05:58,968 INFO 6179 [egg:core] dump config after ready, 17ms
+2022-06-18 14:06:36,656 ERROR 6179 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6179
+hostname: 192.168.16.104
+
+2022-06-18 14:07:19,766 INFO 6195 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:07:19,896 INFO 6195 [egg-multipart] stream mode enable
+2022-06-18 14:07:21,221 INFO 6195 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:07:21,238 INFO 6195 [egg-security] use csrf middleware
+2022-06-18 14:07:21,242 INFO 6195 [egg-security] use methodnoallow middleware
+2022-06-18 14:07:21,245 INFO 6195 [egg-security] use noopen middleware
+2022-06-18 14:07:21,249 INFO 6195 [egg-security] use nosniff middleware
+2022-06-18 14:07:21,259 INFO 6195 [egg-security] use xssProtection middleware
+2022-06-18 14:07:21,267 INFO 6195 [egg-security] use xframe middleware
+2022-06-18 14:07:21,276 INFO 6195 [egg-security] use dta middleware
+2022-06-18 14:07:21,276 INFO 6195 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:07:23,059 INFO 6195 [egg:core] dump config after load, 16ms
+2022-06-18 14:07:23,097 INFO 6195 [egg-watcher:application] watcher start success
+2022-06-18 14:07:23,113 INFO 6195 [egg:core] dump config after ready, 12ms
+2022-06-18 14:07:36,098 INFO 6197 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:07:36,274 INFO 6197 [egg-multipart] stream mode enable
+2022-06-18 14:07:39,197 INFO 6197 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:07:39,215 INFO 6197 [egg-security] use csrf middleware
+2022-06-18 14:07:39,230 INFO 6197 [egg-security] use methodnoallow middleware
+2022-06-18 14:07:39,278 INFO 6197 [egg-security] use noopen middleware
+2022-06-18 14:07:39,305 INFO 6197 [egg-security] use nosniff middleware
+2022-06-18 14:07:39,326 INFO 6197 [egg-security] use xssProtection middleware
+2022-06-18 14:07:39,356 INFO 6197 [egg-security] use xframe middleware
+2022-06-18 14:07:39,365 INFO 6197 [egg-security] use dta middleware
+2022-06-18 14:07:39,365 INFO 6197 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:07:41,666 INFO 6197 [egg:core] dump config after load, 4ms
+2022-06-18 14:07:41,681 INFO 6197 [egg-watcher:application] watcher start success
+2022-06-18 14:07:41,692 INFO 6197 [egg:core] dump config after ready, 7ms
+2022-06-18 14:08:52,580 INFO 6305 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:08:52,616 INFO 6305 [egg-multipart] stream mode enable
+2022-06-18 14:08:53,931 INFO 6305 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:08:53,938 INFO 6305 [egg-security] use csrf middleware
+2022-06-18 14:08:53,952 INFO 6305 [egg-security] use methodnoallow middleware
+2022-06-18 14:08:53,956 INFO 6305 [egg-security] use noopen middleware
+2022-06-18 14:08:53,957 INFO 6305 [egg-security] use nosniff middleware
+2022-06-18 14:08:53,959 INFO 6305 [egg-security] use xssProtection middleware
+2022-06-18 14:08:53,967 INFO 6305 [egg-security] use xframe middleware
+2022-06-18 14:08:53,976 INFO 6305 [egg-security] use dta middleware
+2022-06-18 14:08:53,976 INFO 6305 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:08:56,423 INFO 6305 [egg:core] dump config after load, 5ms
+2022-06-18 14:08:56,442 INFO 6305 [egg-watcher:application] watcher start success
+2022-06-18 14:08:56,452 INFO 6305 [egg:core] dump config after ready, 7ms
+2022-06-18 14:09:33,028 INFO 6312 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:09:33,173 INFO 6312 [egg-multipart] stream mode enable
+2022-06-18 14:09:34,930 INFO 6312 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:09:34,960 INFO 6312 [egg-security] use csrf middleware
+2022-06-18 14:09:34,964 INFO 6312 [egg-security] use methodnoallow middleware
+2022-06-18 14:09:34,967 INFO 6312 [egg-security] use noopen middleware
+2022-06-18 14:09:34,969 INFO 6312 [egg-security] use nosniff middleware
+2022-06-18 14:09:34,982 INFO 6312 [egg-security] use xssProtection middleware
+2022-06-18 14:09:34,990 INFO 6312 [egg-security] use xframe middleware
+2022-06-18 14:09:34,999 INFO 6312 [egg-security] use dta middleware
+2022-06-18 14:09:34,999 INFO 6312 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:09:36,599 INFO 6312 [egg:core] dump config after load, 4ms
+2022-06-18 14:09:36,617 INFO 6312 [egg-watcher:application] watcher start success
+2022-06-18 14:09:36,627 INFO 6312 [egg:core] dump config after ready, 8ms
+2022-06-18 14:09:55,396 INFO 6316 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:09:55,565 INFO 6316 [egg-multipart] stream mode enable
+2022-06-18 14:09:56,988 INFO 6316 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:09:57,004 INFO 6316 [egg-security] use csrf middleware
+2022-06-18 14:09:57,009 INFO 6316 [egg-security] use methodnoallow middleware
+2022-06-18 14:09:57,034 INFO 6316 [egg-security] use noopen middleware
+2022-06-18 14:09:57,035 INFO 6316 [egg-security] use nosniff middleware
+2022-06-18 14:09:57,048 INFO 6316 [egg-security] use xssProtection middleware
+2022-06-18 14:09:57,056 INFO 6316 [egg-security] use xframe middleware
+2022-06-18 14:09:57,065 INFO 6316 [egg-security] use dta middleware
+2022-06-18 14:09:57,065 INFO 6316 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:09:59,701 INFO 6316 [egg:core] dump config after load, 5ms
+2022-06-18 14:09:59,718 INFO 6316 [egg-watcher:application] watcher start success
+2022-06-18 14:09:59,735 INFO 6316 [egg:core] dump config after ready, 14ms
+2022-06-18 14:10:30,969 ERROR 6316 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6316
+hostname: 192.168.16.104
+
+2022-06-18 14:10:40,132 ERROR 6316 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6316
+hostname: 192.168.16.104
+
+2022-06-18 14:29:42,888 INFO 6588 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:29:42,917 INFO 6588 [egg-multipart] stream mode enable
+2022-06-18 14:29:44,238 INFO 6588 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:29:44,246 INFO 6588 [egg-security] use csrf middleware
+2022-06-18 14:29:44,250 INFO 6588 [egg-security] use methodnoallow middleware
+2022-06-18 14:29:44,254 INFO 6588 [egg-security] use noopen middleware
+2022-06-18 14:29:44,256 INFO 6588 [egg-security] use nosniff middleware
+2022-06-18 14:29:44,291 INFO 6588 [egg-security] use xssProtection middleware
+2022-06-18 14:29:44,299 INFO 6588 [egg-security] use xframe middleware
+2022-06-18 14:29:44,307 INFO 6588 [egg-security] use dta middleware
+2022-06-18 14:29:44,307 INFO 6588 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:29:46,174 INFO 6588 [egg:core] dump config after load, 4ms
+2022-06-18 14:29:46,190 INFO 6588 [egg-watcher:application] watcher start success
+2022-06-18 14:29:46,210 INFO 6588 [egg:core] dump config after ready, 18ms
+2022-06-18 14:30:19,830 ERROR 6588 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6588
+hostname: 192.168.16.104
+
+2022-06-18 14:30:29,210 ERROR 6588 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6588
+hostname: 192.168.16.104
+
+2022-06-18 14:30:42,538 ERROR 6588 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6588
+hostname: 192.168.16.104
+
+2022-06-18 14:34:49,273 INFO 6660 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:34:49,517 INFO 6660 [egg-multipart] stream mode enable
+2022-06-18 14:34:51,141 INFO 6660 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:34:51,148 INFO 6660 [egg-security] use csrf middleware
+2022-06-18 14:34:51,152 INFO 6660 [egg-security] use methodnoallow middleware
+2022-06-18 14:34:51,156 INFO 6660 [egg-security] use noopen middleware
+2022-06-18 14:34:51,157 INFO 6660 [egg-security] use nosniff middleware
+2022-06-18 14:34:51,159 INFO 6660 [egg-security] use xssProtection middleware
+2022-06-18 14:34:51,167 INFO 6660 [egg-security] use xframe middleware
+2022-06-18 14:34:51,176 INFO 6660 [egg-security] use dta middleware
+2022-06-18 14:34:51,176 INFO 6660 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:34:56,524 INFO 6660 [egg:core] dump config after load, 18ms
+2022-06-18 14:34:56,540 INFO 6660 [egg-watcher:application] watcher start success
+2022-06-18 14:34:56,601 INFO 6660 [egg:core] dump config after ready, 58ms
+2022-06-18 14:35:06,340 INFO 6668 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:35:06,452 INFO 6668 [egg-multipart] stream mode enable
+2022-06-18 14:35:08,442 INFO 6668 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:35:08,471 INFO 6668 [egg-security] use csrf middleware
+2022-06-18 14:35:08,509 INFO 6668 [egg-security] use methodnoallow middleware
+2022-06-18 14:35:08,523 INFO 6668 [egg-security] use noopen middleware
+2022-06-18 14:35:08,526 INFO 6668 [egg-security] use nosniff middleware
+2022-06-18 14:35:08,560 INFO 6668 [egg-security] use xssProtection middleware
+2022-06-18 14:35:08,579 INFO 6668 [egg-security] use xframe middleware
+2022-06-18 14:35:08,588 INFO 6668 [egg-security] use dta middleware
+2022-06-18 14:35:08,588 INFO 6668 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:35:11,055 INFO 6668 [egg:core] dump config after load, 5ms
+2022-06-18 14:35:11,086 INFO 6668 [egg-watcher:application] watcher start success
+2022-06-18 14:35:11,095 INFO 6668 [egg:core] dump config after ready, 6ms
+2022-06-18 14:35:41,264 ERROR 6668 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6668
+hostname: 192.168.16.104
+
+2022-06-18 14:41:55,111 INFO 6703 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:41:55,320 INFO 6703 [egg-multipart] stream mode enable
+2022-06-18 14:41:57,002 INFO 6703 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:41:57,029 INFO 6703 [egg-security] use csrf middleware
+2022-06-18 14:41:57,054 INFO 6703 [egg-security] use methodnoallow middleware
+2022-06-18 14:41:57,059 INFO 6703 [egg-security] use noopen middleware
+2022-06-18 14:41:57,066 INFO 6703 [egg-security] use nosniff middleware
+2022-06-18 14:41:57,096 INFO 6703 [egg-security] use xssProtection middleware
+2022-06-18 14:41:57,203 INFO 6703 [egg-security] use xframe middleware
+2022-06-18 14:41:57,268 INFO 6703 [egg-security] use dta middleware
+2022-06-18 14:41:57,268 INFO 6703 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:41:59,582 INFO 6703 [egg:core] dump config after load, 19ms
+2022-06-18 14:41:59,608 INFO 6703 [egg-watcher:application] watcher start success
+2022-06-18 14:41:59,621 INFO 6703 [egg:core] dump config after ready, 10ms
+2022-06-18 14:42:14,719 INFO 6707 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 14:42:14,810 INFO 6707 [egg-multipart] stream mode enable
+2022-06-18 14:42:16,079 INFO 6707 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 14:42:16,118 INFO 6707 [egg-security] use csrf middleware
+2022-06-18 14:42:16,121 INFO 6707 [egg-security] use methodnoallow middleware
+2022-06-18 14:42:16,125 INFO 6707 [egg-security] use noopen middleware
+2022-06-18 14:42:16,126 INFO 6707 [egg-security] use nosniff middleware
+2022-06-18 14:42:16,129 INFO 6707 [egg-security] use xssProtection middleware
+2022-06-18 14:42:16,136 INFO 6707 [egg-security] use xframe middleware
+2022-06-18 14:42:16,145 INFO 6707 [egg-security] use dta middleware
+2022-06-18 14:42:16,145 INFO 6707 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 14:42:17,523 INFO 6707 [egg:core] dump config after load, 5ms
+2022-06-18 14:42:17,538 INFO 6707 [egg-watcher:application] watcher start success
+2022-06-18 14:42:17,559 INFO 6707 [egg:core] dump config after ready, 18ms
+2022-06-18 15:00:30,390 ERROR 6707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6707
+hostname: 192.168.16.104
+
+2022-06-18 15:00:41,206 ERROR 6707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6707
+hostname: 192.168.16.104
+
+2022-06-18 15:01:26,313 ERROR 6707 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6707
+hostname: 192.168.16.104
+
+2022-06-18 15:01:47,014 INFO 6789 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 15:01:47,224 INFO 6789 [egg-multipart] stream mode enable
+2022-06-18 15:01:50,720 INFO 6789 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 15:01:50,743 INFO 6789 [egg-security] use csrf middleware
+2022-06-18 15:01:50,758 INFO 6789 [egg-security] use methodnoallow middleware
+2022-06-18 15:01:50,851 INFO 6789 [egg-security] use noopen middleware
+2022-06-18 15:01:50,922 INFO 6789 [egg-security] use nosniff middleware
+2022-06-18 15:01:50,944 INFO 6789 [egg-security] use xssProtection middleware
+2022-06-18 15:01:50,962 INFO 6789 [egg-security] use xframe middleware
+2022-06-18 15:01:50,971 INFO 6789 [egg-security] use dta middleware
+2022-06-18 15:01:50,971 INFO 6789 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 15:01:58,264 INFO 6789 [egg:core] dump config after load, 31ms
+2022-06-18 15:01:58,289 INFO 6789 [egg-watcher:application] watcher start success
+2022-06-18 15:01:58,330 INFO 6789 [egg:core] dump config after ready, 39ms
+2022-06-18 15:02:11,441 INFO 6797 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 15:02:11,557 INFO 6797 [egg-multipart] stream mode enable
+2022-06-18 15:02:13,327 INFO 6797 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 15:02:13,343 INFO 6797 [egg-security] use csrf middleware
+2022-06-18 15:02:13,369 INFO 6797 [egg-security] use methodnoallow middleware
+2022-06-18 15:02:13,395 INFO 6797 [egg-security] use noopen middleware
+2022-06-18 15:02:13,396 INFO 6797 [egg-security] use nosniff middleware
+2022-06-18 15:02:13,409 INFO 6797 [egg-security] use xssProtection middleware
+2022-06-18 15:02:13,417 INFO 6797 [egg-security] use xframe middleware
+2022-06-18 15:02:13,427 INFO 6797 [egg-security] use dta middleware
+2022-06-18 15:02:13,427 INFO 6797 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 15:02:14,501 INFO 6797 [egg:core] dump config after load, 8ms
+2022-06-18 15:02:14,525 INFO 6797 [egg-watcher:application] watcher start success
+2022-06-18 15:02:14,536 INFO 6797 [egg:core] dump config after ready, 7ms
+2022-06-18 15:02:54,761 INFO 6811 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 15:02:54,794 INFO 6811 [egg-multipart] stream mode enable
+2022-06-18 15:02:54,866 INFO 6811 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 15:02:54,869 INFO 6811 [egg-security] use csrf middleware
+2022-06-18 15:02:54,869 INFO 6811 [egg-security] use methodnoallow middleware
+2022-06-18 15:02:54,870 INFO 6811 [egg-security] use noopen middleware
+2022-06-18 15:02:54,870 INFO 6811 [egg-security] use nosniff middleware
+2022-06-18 15:02:54,871 INFO 6811 [egg-security] use xssProtection middleware
+2022-06-18 15:02:54,871 INFO 6811 [egg-security] use xframe middleware
+2022-06-18 15:02:54,872 INFO 6811 [egg-security] use dta middleware
+2022-06-18 15:02:54,872 INFO 6811 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 15:02:55,051 INFO 6811 [egg:core] dump config after load, 4ms
+2022-06-18 15:02:55,064 INFO 6811 [egg-watcher:application] watcher start success
+2022-06-18 15:02:55,070 INFO 6811 [egg:core] dump config after ready, 4ms
+2022-06-18 15:02:56,096 INFO 6812 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 15:02:56,133 INFO 6812 [egg-multipart] stream mode enable
+2022-06-18 15:02:56,234 INFO 6812 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 15:02:56,236 INFO 6812 [egg-security] use csrf middleware
+2022-06-18 15:02:56,238 INFO 6812 [egg-security] use methodnoallow middleware
+2022-06-18 15:02:56,238 INFO 6812 [egg-security] use noopen middleware
+2022-06-18 15:02:56,239 INFO 6812 [egg-security] use nosniff middleware
+2022-06-18 15:02:56,242 INFO 6812 [egg-security] use xssProtection middleware
+2022-06-18 15:02:56,242 INFO 6812 [egg-security] use xframe middleware
+2022-06-18 15:02:56,244 INFO 6812 [egg-security] use dta middleware
+2022-06-18 15:02:56,244 INFO 6812 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 15:02:56,474 INFO 6812 [egg:core] dump config after load, 6ms
+2022-06-18 15:02:56,488 INFO 6812 [egg-watcher:application] watcher start success
+2022-06-18 15:02:56,576 INFO 6812 [egg:core] dump config after ready, 86ms
+2022-06-18 15:03:42,294 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:03:43,411 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:03:52,499 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:04:00,219 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:04:23,423 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 15:04:31,932 ERROR 6812 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 6812
+hostname: 192.168.16.104
+
+2022-06-18 16:57:23,115 INFO 11822 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 16:57:23,163 INFO 11822 [egg-multipart] stream mode enable
+2022-06-18 16:57:24,746 INFO 11822 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 16:57:24,795 INFO 11822 [egg-security] use csrf middleware
+2022-06-18 16:57:24,822 INFO 11822 [egg-security] use methodnoallow middleware
+2022-06-18 16:57:24,834 INFO 11822 [egg-security] use noopen middleware
+2022-06-18 16:57:24,836 INFO 11822 [egg-security] use nosniff middleware
+2022-06-18 16:57:24,872 INFO 11822 [egg-security] use xssProtection middleware
+2022-06-18 16:57:24,903 INFO 11822 [egg-security] use xframe middleware
+2022-06-18 16:57:24,945 INFO 11822 [egg-security] use dta middleware
+2022-06-18 16:57:24,946 INFO 11822 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 16:57:28,104 INFO 11822 [egg:core] dump config after load, 33ms
+2022-06-18 16:57:28,172 INFO 11822 [egg-watcher:application] watcher start success
+2022-06-18 16:57:28,204 INFO 11822 [egg:core] dump config after ready, 7ms
+2022-06-18 17:02:05,962 ERROR 11822 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11822
+hostname: 192.168.16.104
+
+2022-06-18 17:04:03,462 ERROR 11822 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11822
+hostname: 192.168.16.104
+
+2022-06-18 17:04:14,781 INFO 11851 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 17:04:14,938 INFO 11851 [egg-multipart] stream mode enable
+2022-06-18 17:04:17,039 INFO 11851 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 17:04:17,057 INFO 11851 [egg-security] use csrf middleware
+2022-06-18 17:04:17,084 INFO 11851 [egg-security] use methodnoallow middleware
+2022-06-18 17:04:17,098 INFO 11851 [egg-security] use noopen middleware
+2022-06-18 17:04:17,136 INFO 11851 [egg-security] use nosniff middleware
+2022-06-18 17:04:17,146 INFO 11851 [egg-security] use xssProtection middleware
+2022-06-18 17:04:17,176 INFO 11851 [egg-security] use xframe middleware
+2022-06-18 17:04:17,207 INFO 11851 [egg-security] use dta middleware
+2022-06-18 17:04:17,208 INFO 11851 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 17:04:18,978 INFO 11851 [egg:core] dump config after load, 38ms
+2022-06-18 17:04:18,999 INFO 11851 [egg-watcher:application] watcher start success
+2022-06-18 17:04:19,010 INFO 11851 [egg:core] dump config after ready, 8ms
+2022-06-18 17:04:31,883 INFO 11857 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 17:04:31,971 INFO 11857 [egg-multipart] stream mode enable
+2022-06-18 17:04:33,217 INFO 11857 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 17:04:33,224 INFO 11857 [egg-security] use csrf middleware
+2022-06-18 17:04:33,228 INFO 11857 [egg-security] use methodnoallow middleware
+2022-06-18 17:04:33,232 INFO 11857 [egg-security] use noopen middleware
+2022-06-18 17:04:33,233 INFO 11857 [egg-security] use nosniff middleware
+2022-06-18 17:04:33,246 INFO 11857 [egg-security] use xssProtection middleware
+2022-06-18 17:04:33,254 INFO 11857 [egg-security] use xframe middleware
+2022-06-18 17:04:33,263 INFO 11857 [egg-security] use dta middleware
+2022-06-18 17:04:33,263 INFO 11857 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 17:04:34,779 INFO 11857 [egg:core] dump config after load, 5ms
+2022-06-18 17:04:34,798 INFO 11857 [egg-watcher:application] watcher start success
+2022-06-18 17:04:34,822 INFO 11857 [egg:core] dump config after ready, 22ms
+2022-06-18 17:04:55,771 INFO 11861 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 17:04:55,860 INFO 11861 [egg-multipart] stream mode enable
+2022-06-18 17:04:56,973 INFO 11861 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 17:04:56,980 INFO 11861 [egg-security] use csrf middleware
+2022-06-18 17:04:56,984 INFO 11861 [egg-security] use methodnoallow middleware
+2022-06-18 17:04:56,987 INFO 11861 [egg-security] use noopen middleware
+2022-06-18 17:04:56,989 INFO 11861 [egg-security] use nosniff middleware
+2022-06-18 17:04:57,002 INFO 11861 [egg-security] use xssProtection middleware
+2022-06-18 17:04:57,010 INFO 11861 [egg-security] use xframe middleware
+2022-06-18 17:04:57,019 INFO 11861 [egg-security] use dta middleware
+2022-06-18 17:04:57,019 INFO 11861 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 17:04:58,301 INFO 11861 [egg:core] dump config after load, 6ms
+2022-06-18 17:04:58,322 INFO 11861 [egg-watcher:application] watcher start success
+2022-06-18 17:04:58,344 INFO 11861 [egg:core] dump config after ready, 19ms
+2022-06-18 17:05:43,393 INFO 11864 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 17:05:43,551 INFO 11864 [egg-multipart] stream mode enable
+2022-06-18 17:05:45,350 INFO 11864 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 17:05:45,358 INFO 11864 [egg-security] use csrf middleware
+2022-06-18 17:05:45,361 INFO 11864 [egg-security] use methodnoallow middleware
+2022-06-18 17:05:45,365 INFO 11864 [egg-security] use noopen middleware
+2022-06-18 17:05:45,366 INFO 11864 [egg-security] use nosniff middleware
+2022-06-18 17:05:45,369 INFO 11864 [egg-security] use xssProtection middleware
+2022-06-18 17:05:45,377 INFO 11864 [egg-security] use xframe middleware
+2022-06-18 17:05:45,397 INFO 11864 [egg-security] use dta middleware
+2022-06-18 17:05:45,397 INFO 11864 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 17:05:46,790 INFO 11864 [egg:core] dump config after load, 6ms
+2022-06-18 17:05:46,808 INFO 11864 [egg-watcher:application] watcher start success
+2022-06-18 17:05:46,822 INFO 11864 [egg:core] dump config after ready, 10ms
+2022-06-18 17:06:16,982 ERROR 11864 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11864
+hostname: 192.168.16.104
+
+2022-06-18 17:08:10,745 INFO 11945 [egg:logger] init all loggers with options: {"dir":"/Users/yanghuimin/imooc-test/02/egg-example/logs/beibei-cli-dev-server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"beibei-cli-dev-server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-06-18 17:08:10,772 INFO 11945 [egg-multipart] stream mode enable
+2022-06-18 17:08:12,606 INFO 11945 [egg-static] starting static serve /public/ -> /Users/yanghuimin/imooc-test/02/egg-example/app/public
+2022-06-18 17:08:12,614 INFO 11945 [egg-security] use csrf middleware
+2022-06-18 17:08:12,640 INFO 11945 [egg-security] use methodnoallow middleware
+2022-06-18 17:08:12,643 INFO 11945 [egg-security] use noopen middleware
+2022-06-18 17:08:12,644 INFO 11945 [egg-security] use nosniff middleware
+2022-06-18 17:08:12,658 INFO 11945 [egg-security] use xssProtection middleware
+2022-06-18 17:08:12,666 INFO 11945 [egg-security] use xframe middleware
+2022-06-18 17:08:12,675 INFO 11945 [egg-security] use dta middleware
+2022-06-18 17:08:12,675 INFO 11945 [egg-security] compose 7 middlewares into one security middleware
+2022-06-18 17:08:14,322 INFO 11945 [egg:core] dump config after load, 4ms
+2022-06-18 17:08:14,338 INFO 11945 [egg-watcher:application] watcher start success
+2022-06-18 17:08:14,366 INFO 11945 [egg:core] dump config after ready, 26ms
+2022-06-18 17:08:48,930 ERROR 11945 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/_mongodb@3.7.3@mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 11945
+hostname: 192.168.16.104
+

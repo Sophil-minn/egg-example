@@ -1,0 +1,234 @@
+2022-06-18 10:23:12,922 INFO 2319 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:23:12,922 INFO 2319 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:23:12,922 INFO 2319 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:23:14,406 INFO 2317 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 65205619ms at 2022-06-19 04:30:00.025
+2022-06-18 10:23:14,406 INFO 2317 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 49005594ms at 2022-06-19 00:00:00.000
+2022-06-18 10:23:14,407 INFO 2317 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 49006594ms at 2022-06-19 00:00:01.001
+2022-06-18 10:38:28,393 INFO 2410 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:38:28,393 INFO 2410 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:38:28,393 INFO 2410 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:39:52,793 INFO 2424 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:39:52,793 INFO 2424 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:39:52,793 INFO 2424 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:39:55,513 INFO 2426 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:39:55,513 INFO 2426 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:39:55,513 INFO 2426 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:40:53,019 INFO 2431 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:40:53,019 INFO 2431 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:40:53,019 INFO 2431 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:43:42,682 INFO 2446 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:43:42,682 INFO 2446 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:43:42,683 INFO 2446 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:43:44,729 INFO 2450 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:43:44,729 INFO 2450 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:43:44,729 INFO 2450 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:44:00,313 INFO 2453 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:44:00,313 INFO 2453 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:44:00,313 INFO 2453 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:44:29,111 INFO 2457 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:44:29,111 INFO 2457 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:44:29,111 INFO 2457 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 10:50:41,301 INFO 2748 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 10:50:41,301 INFO 2748 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 10:50:41,301 INFO 2748 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:39:49,816 INFO 4847 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:39:49,816 INFO 4847 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:39:49,816 INFO 4847 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:40:03,426 INFO 4852 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:40:03,426 INFO 4852 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:40:03,427 INFO 4852 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:48:52,346 INFO 5245 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:48:52,346 INFO 5245 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:48:52,346 INFO 5245 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:49:01,426 INFO 5250 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:49:01,426 INFO 5250 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:49:01,426 INFO 5250 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:52:47,508 INFO 5265 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:52:47,508 INFO 5265 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:52:47,508 INFO 5265 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:53:17,496 INFO 5271 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:53:17,497 INFO 5271 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:53:17,497 INFO 5271 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:54:06,041 INFO 5274 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:54:06,041 INFO 5274 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:54:06,042 INFO 5274 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:54:55,954 INFO 5281 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:54:55,954 INFO 5281 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:54:55,954 INFO 5281 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:58:45,576 INFO 5403 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 12:58:45,576 INFO 5403 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 12:58:45,577 INFO 5403 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 12:58:50,000 INFO 5401 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 55870005ms at 2022-06-19 04:30:00.005
+2022-06-18 12:58:50,000 INFO 5401 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 39670000ms at 2022-06-19 00:00:00.000
+2022-06-18 12:58:50,001 INFO 5401 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39671000ms at 2022-06-19 00:00:01.000
+2022-06-18 13:02:06,009 INFO 5416 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:02:06,009 INFO 5416 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:02:06,009 INFO 5416 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:02:23,932 INFO 5421 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:02:23,932 INFO 5421 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:02:23,932 INFO 5421 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:02:39,420 INFO 5423 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:02:39,420 INFO 5423 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:02:39,420 INFO 5423 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:02:50,676 INFO 5429 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:02:50,676 INFO 5429 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:02:50,676 INFO 5429 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:03:33,481 INFO 5456 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:03:33,481 INFO 5456 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:03:33,481 INFO 5456 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:03:35,768 INFO 5454 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 55584237ms at 2022-06-19 04:30:00.005
+2022-06-18 13:03:35,768 INFO 5454 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 39384232ms at 2022-06-19 00:00:00.000
+2022-06-18 13:03:35,768 INFO 5454 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39385232ms at 2022-06-19 00:00:01.000
+2022-06-18 13:05:27,385 INFO 5470 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:05:27,385 INFO 5470 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:05:27,385 INFO 5470 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:05:45,585 INFO 5474 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:05:45,585 INFO 5474 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:05:45,585 INFO 5474 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:10:03,292 INFO 5539 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:10:03,292 INFO 5539 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:10:03,292 INFO 5539 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:10:08,918 INFO 5538 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 55191088ms at 2022-06-19 04:30:00.006
+2022-06-18 13:10:08,918 INFO 5538 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38991082ms at 2022-06-19 00:00:00.000
+2022-06-18 13:10:08,919 INFO 5538 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38992081ms at 2022-06-19 00:00:01.000
+2022-06-18 13:15:51,987 INFO 5586 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:15:51,987 INFO 5586 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:15:51,987 INFO 5586 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:16:24,867 INFO 5642 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:16:24,867 INFO 5642 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:16:24,868 INFO 5642 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:16:28,565 INFO 5640 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54811440ms at 2022-06-19 04:30:00.005
+2022-06-18 13:16:28,565 INFO 5640 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38611435ms at 2022-06-19 00:00:00.000
+2022-06-18 13:16:28,566 INFO 5640 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38612435ms at 2022-06-19 00:00:01.001
+2022-06-18 13:19:22,579 INFO 5653 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:19:22,579 INFO 5653 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:19:22,579 INFO 5653 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:19:36,502 INFO 5656 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:19:36,502 INFO 5656 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:19:36,502 INFO 5656 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:23:38,658 INFO 5673 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:23:38,658 INFO 5673 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:23:38,658 INFO 5673 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:24:03,647 INFO 5686 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:24:03,647 INFO 5686 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:24:03,647 INFO 5686 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:25:50,136 INFO 5704 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:25:50,136 INFO 5704 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:25:50,137 INFO 5704 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:25:58,094 INFO 5707 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:25:58,094 INFO 5707 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:25:58,095 INFO 5707 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:29:51,873 INFO 5734 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:29:51,873 INFO 5734 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:29:51,874 INFO 5734 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:35:42,353 INFO 5782 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:35:42,353 INFO 5782 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:35:42,353 INFO 5782 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:35:57,908 INFO 5786 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:35:57,908 INFO 5786 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:35:57,908 INFO 5786 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:39:39,974 INFO 5870 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:39:39,975 INFO 5870 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:39:39,975 INFO 5870 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:39:43,245 INFO 5868 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 53416761ms at 2022-06-19 04:30:00.006
+2022-06-18 13:39:43,246 INFO 5868 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 37216755ms at 2022-06-19 00:00:00.001
+2022-06-18 13:39:43,246 INFO 5868 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 37217754ms at 2022-06-19 00:00:01.000
+2022-06-18 13:50:49,282 INFO 5912 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:50:49,282 INFO 5912 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:50:49,282 INFO 5912 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:51:07,741 INFO 5915 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:51:07,741 INFO 5915 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:51:07,741 INFO 5915 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:54:13,372 INFO 5998 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:54:13,373 INFO 5998 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:54:13,373 INFO 5998 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 13:54:16,579 INFO 5997 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 52543425ms at 2022-06-19 04:30:00.004
+2022-06-18 13:54:16,580 INFO 5997 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36343421ms at 2022-06-19 00:00:00.001
+2022-06-18 13:54:16,581 INFO 5997 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36344420ms at 2022-06-19 00:00:01.000
+2022-06-18 13:59:25,039 INFO 6043 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 13:59:25,039 INFO 6043 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 13:59:25,039 INFO 6043 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:00:36,891 INFO 6086 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:00:36,891 INFO 6086 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:00:36,891 INFO 6086 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:00:41,200 INFO 6084 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 52158804ms at 2022-06-19 04:30:00.004
+2022-06-18 14:00:41,200 INFO 6084 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35958800ms at 2022-06-19 00:00:00.000
+2022-06-18 14:00:41,200 INFO 6084 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35959800ms at 2022-06-19 00:00:01.000
+2022-06-18 14:05:55,936 INFO 6179 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:05:55,936 INFO 6179 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:05:55,936 INFO 6179 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:05:58,979 INFO 6177 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51841025ms at 2022-06-19 04:30:00.004
+2022-06-18 14:05:58,979 INFO 6177 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35641021ms at 2022-06-19 00:00:00.000
+2022-06-18 14:05:58,980 INFO 6177 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35642021ms at 2022-06-19 00:00:01.001
+2022-06-18 14:07:19,896 INFO 6195 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:07:19,896 INFO 6195 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:07:19,896 INFO 6195 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:07:36,273 INFO 6197 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:07:36,273 INFO 6197 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:07:36,274 INFO 6197 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:08:52,615 INFO 6305 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:08:52,615 INFO 6305 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:08:52,615 INFO 6305 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:08:56,465 INFO 6301 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51663540ms at 2022-06-19 04:30:00.005
+2022-06-18 14:08:56,466 INFO 6301 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 35463535ms at 2022-06-19 00:00:00.001
+2022-06-18 14:08:56,466 INFO 6301 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35464534ms at 2022-06-19 00:00:01.000
+2022-06-18 14:09:33,172 INFO 6312 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:09:33,172 INFO 6312 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:09:33,173 INFO 6312 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:09:55,563 INFO 6316 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:09:55,564 INFO 6316 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:09:55,564 INFO 6316 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:29:42,916 INFO 6588 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:29:42,916 INFO 6588 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:29:42,916 INFO 6588 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:29:46,218 INFO 6586 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50413785ms at 2022-06-19 04:30:00.003
+2022-06-18 14:29:46,219 INFO 6586 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 34213782ms at 2022-06-19 00:00:00.001
+2022-06-18 14:29:46,219 INFO 6586 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34214781ms at 2022-06-19 00:00:01.000
+2022-06-18 14:34:49,517 INFO 6660 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:34:49,517 INFO 6660 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:34:49,517 INFO 6660 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:35:06,451 INFO 6668 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:35:06,451 INFO 6668 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:35:06,451 INFO 6668 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:41:55,319 INFO 6703 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:41:55,319 INFO 6703 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:41:55,319 INFO 6703 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 14:42:14,809 INFO 6707 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 14:42:14,809 INFO 6707 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 14:42:14,809 INFO 6707 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 15:01:47,224 INFO 6789 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 15:01:47,224 INFO 6789 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 15:01:47,224 INFO 6789 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 15:02:11,556 INFO 6797 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 15:02:11,556 INFO 6797 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 15:02:11,556 INFO 6797 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 15:02:54,793 INFO 6811 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 15:02:54,793 INFO 6811 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 15:02:54,794 INFO 6811 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 15:02:56,132 INFO 6812 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 15:02:56,132 INFO 6812 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 15:02:56,133 INFO 6812 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 16:57:23,162 INFO 11822 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 16:57:23,162 INFO 11822 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 16:57:23,162 INFO 11822 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 16:57:28,216 INFO 11821 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41551788ms at 2022-06-19 04:30:00.004
+2022-06-18 16:57:28,217 INFO 11821 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25351783ms at 2022-06-19 00:00:00.000
+2022-06-18 16:57:28,217 INFO 11821 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25352783ms at 2022-06-19 00:00:01.000
+2022-06-18 17:04:14,937 INFO 11851 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 17:04:14,937 INFO 11851 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 17:04:14,937 INFO 11851 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 17:04:31,971 INFO 11857 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 17:04:31,971 INFO 11857 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 17:04:31,971 INFO 11857 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 17:04:55,859 INFO 11861 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 17:04:55,859 INFO 11861 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 17:04:55,859 INFO 11861 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 17:05:43,550 INFO 11864 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 17:05:43,550 INFO 11864 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 17:05:43,551 INFO 11864 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 17:08:10,771 INFO 11945 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-18 17:08:10,772 INFO 11945 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-18 17:08:10,772 INFO 11945 [egg-schedule]: register schedule /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-18 17:08:14,377 INFO 11940 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40905628ms at 2022-06-19 04:30:00.005
+2022-06-18 17:08:14,377 INFO 11940 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24705623ms at 2022-06-19 00:00:00.000
+2022-06-18 17:08:14,377 INFO 11940 [Timer] /Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24706623ms at 2022-06-19 00:00:01.000

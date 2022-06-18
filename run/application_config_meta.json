@@ -1,0 +1,302 @@
+{
+  "keys": "/Users/yanghuimin/imooc-test/02/egg-example/config/config.default.js",
+  "middleware": "/Users/yanghuimin/imooc-test/02/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "@pick-star/cli-mongodb": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "egg": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+}
