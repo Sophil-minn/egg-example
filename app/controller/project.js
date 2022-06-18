@@ -8,8 +8,8 @@ class ProjectController extends Controller {
     const { ctx } = this;
     ctx.body = {
     	name: 'project data myproject',
-    	a:1, 
-    	b: true
+    	a: 1, 
+    	b: true,
     };
   }
   // 获取项目/组件的代码模板
@@ -18,7 +18,8 @@ class ProjectController extends Controller {
   
   	console.log('get template', 'data');
   	// console.log(mongo(), 'mongo()');
-  	const data = await mongo().query('project');
+  	// const data = await mongo().query('project');
+    const data = require('./mock');
   	console.log('get template', 'data');
     ctx.body = data;
   }
