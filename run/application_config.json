@@ -215,7 +215,8 @@
       "dependencies": {
         "@pick-star/cli-mongodb": "^1.0.3",
         "egg": "^2.15.1",
-        "egg-scripts": "^2.11.0"
+        "egg-scripts": "^2.11.0",
+        "mongoose": "^6.4.0"
       },
       "devDependencies": {
         "autod": "^3.0.1",
@@ -536,7 +537,8 @@
       "dependencies": {
         "@pick-star/cli-mongodb": "^1.0.3",
         "egg": "^2.15.1",
-        "egg-scripts": "^2.11.0"
+        "egg-scripts": "^2.11.0",
+        "mongoose": "^6.4.0"
       },
       "devDependencies": {
         "autod": "^3.0.1",

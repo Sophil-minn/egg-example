@@ -394,3 +394,272 @@ reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":nul
 pid: 11945
 hostname: 192.168.16.104
 
+2022-06-19 22:27:05,640 ERROR 40049 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 40049
+hostname: 192.168.16.101
+
+2022-06-19 22:28:45,770 ERROR 40324 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 40324
+hostname: 192.168.16.101
+
+2022-06-19 23:08:18,369 ERROR 41802 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 41802
+hostname: 192.168.16.101
+
+2022-06-20 21:24:01,750 ERROR 2241 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 2241
+hostname: 192.168.16.101
+
+2022-06-20 21:26:59,619 ERROR 2241 nodejs.MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27107
+    at Timeout._onTimeout (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/sdam/topology.js:438:30)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "MongoServerSelectionError"
+reason: {"type":"Single","setName":null,"maxSetVersion":null,"maxElectionId":null,"servers":{},"stale":false,"compatible":true,"compatibilityError":null,"logicalSessionTimeoutMinutes":null,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"commonWireVersion":null}
+pid: 2241
+hostname: 192.168.16.101
+
+2022-06-20 21:55:22,218 ERROR 4930 [-/127.0.0.1/-/143ms GET /project/template] nodejs.TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Mongoose'
+    |     property 'connections' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'NativeConnection'
+    --- property 'base' closes the circle
+    --> starting at object with constructor 'Mongoose'
+    |     property 'connections' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'NativeConnection'
+    --- property 'base' closes the circle
+    at JSON.stringify (<anonymous>)
+    at respond (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa/lib/application.js:279:15)
+    at handleResponse (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+pid: 4930
+hostname: 192.168.16.101
+
+2022-06-20 22:07:09,826 ERROR 6003 nodejs.MongoError: Authentication failed.
+    at MessageStream.messageHandler (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:754:22)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+ok: 0
+code: 18
+codeName: "AuthenticationFailed"
+name: "MongoError"
+pid: 6003
+hostname: 192.168.16.101
+
+2022-06-20 22:11:59,871 ERROR 6355 nodejs.MongoError: Authentication failed.
+    at MessageStream.messageHandler (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:754:22)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+ok: 0
+code: 18
+codeName: "AuthenticationFailed"
+name: "MongoError"
+pid: 6355
+hostname: 192.168.16.101
+
+2022-06-20 22:19:54,644 ERROR 6645 nodejs.MongoError: Authentication failed.
+    at MessageStream.messageHandler (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:754:22)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+ok: 0
+code: 18
+codeName: "AuthenticationFailed"
+name: "MongoError"
+pid: 6645
+hostname: 192.168.16.101
+
+2022-06-20 22:23:42,032 ERROR 6914 nodejs.MongoParseError: Incomplete key value pair for option
+    at parseQueryString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:436:13)
+    at parseConnectionString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:599:21)
+    at connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/operations/connect.js:283:3)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:284:5
+    at maybePromise (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/utils.js:692:3)
+    at MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:280:10)
+    at Function.MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:426:22)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:14:19
+    at new Promise (<anonymous>)
+    at Mongo.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:13:12)
+name: "MongoParseError"
+pid: 6914
+hostname: 192.168.16.101
+
+2022-06-20 22:25:56,739 ERROR 7121 nodejs.MongoParseError: Incomplete key value pair for option
+    at parseQueryString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:436:13)
+    at parseConnectionString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:599:21)
+    at connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/operations/connect.js:283:3)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:284:5
+    at maybePromise (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/utils.js:692:3)
+    at MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:280:10)
+    at Function.MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:426:22)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:14:19
+    at new Promise (<anonymous>)
+    at Mongo.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:13:12)
+name: "MongoParseError"
+pid: 7121
+hostname: 192.168.16.101
+
+2022-06-20 22:32:22,374 ERROR 7892 nodejs.MongoParseError: Incomplete key value pair for option
+    at parseQueryString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:436:13)
+    at parseConnectionString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:599:21)
+    at connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/operations/connect.js:283:3)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:284:5
+    at maybePromise (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/utils.js:692:3)
+    at MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:280:10)
+    at Function.MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:426:22)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:14:19
+    at new Promise (<anonymous>)
+    at Mongo.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:13:12)
+name: "MongoParseError"
+pid: 7892
+hostname: 192.168.16.101
+
+2022-06-20 22:33:40,547 ERROR 8018 [-/127.0.0.1/-/23ms GET /project/template] nodejs.TypeError: mongo(...).query(...).find is not a function
+    at ProjectController.getTemplate (/Users/yanghuimin/imooc-test/02/egg-example/app/controller/project.js:38:48)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 8018
+hostname: 192.168.16.101
+
+2022-06-20 22:33:40,664 ERROR 8018 nodejs.MongoParseError: Incomplete key value pair for option
+    at parseQueryString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:436:13)
+    at parseConnectionString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:599:21)
+    at connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/operations/connect.js:283:3)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:284:5
+    at maybePromise (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/utils.js:692:3)
+    at MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:280:10)
+    at Function.MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:426:22)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:14:19
+    at new Promise (<anonymous>)
+    at Mongo.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:13:12)
+name: "MongoParseError"
+pid: 8018
+hostname: 192.168.16.101
+
+2022-06-20 22:34:54,953 ERROR 8212 [-/127.0.0.1/-/14ms GET /project/template] nodejs.TypeError: mongo(...).find is not a function
+    at ProjectController.getTemplate (/Users/yanghuimin/imooc-test/02/egg-example/app/controller/project.js:38:31)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 8212
+hostname: 192.168.16.101
+
+2022-06-20 22:34:58,669 ERROR 8212 [-/127.0.0.1/-/2ms GET /project/template] nodejs.TypeError: mongo(...).find is not a function
+    at ProjectController.getTemplate (/Users/yanghuimin/imooc-test/02/egg-example/app/controller/project.js:38:31)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 8212
+hostname: 192.168.16.101
+
+2022-06-20 22:35:53,539 ERROR 8339 nodejs.MongoParseError: Incomplete key value pair for option
+    at parseQueryString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:436:13)
+    at parseConnectionString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:599:21)
+    at connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/operations/connect.js:283:3)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:284:5
+    at maybePromise (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/utils.js:692:3)
+    at MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:280:10)
+    at Function.MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:426:22)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:14:19
+    at new Promise (<anonymous>)
+    at Mongo.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:13:12)
+name: "MongoParseError"
+pid: 8339
+hostname: 192.168.16.101
+
+2022-06-20 22:36:12,767 ERROR 8404 nodejs.MongoParseError: Incomplete key value pair for option
+    at parseQueryString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:436:13)
+    at parseConnectionString (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/core/uri_parser.js:599:21)
+    at connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/operations/connect.js:283:3)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:284:5
+    at maybePromise (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/utils.js:692:3)
+    at MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:280:10)
+    at Function.MongoClient.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/mongo_client.js:426:22)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:14:19
+    at new Promise (<anonymous>)
+    at Mongo.connect (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@pick-star/cli-mongodb/lib/index.js:13:12)
+name: "MongoParseError"
+pid: 8404
+hostname: 192.168.16.101
+
+2022-06-20 22:42:45,452 ERROR 8974 nodejs.MongoError: Authentication failed.
+    at MessageStream.messageHandler (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:144:12)
+    at MessageStream._write (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/mongodb/lib/cmap/message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:754:22)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+ok: 0
+code: 18
+codeName: "AuthenticationFailed"
+name: "MongoError"
+pid: 8974
+hostname: 192.168.16.101
+

@@ -1,0 +1,62 @@
+2022-06-20 21:55:22,219 ERROR 4930 [-/127.0.0.1/-/143ms GET /project/template] nodejs.TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Mongoose'
+    |     property 'connections' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'NativeConnection'
+    --- property 'base' closes the circle
+    --> starting at object with constructor 'Mongoose'
+    |     property 'connections' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'NativeConnection'
+    --- property 'base' closes the circle
+    at JSON.stringify (<anonymous>)
+    at respond (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa/lib/application.js:279:15)
+    at handleResponse (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+
+pid: 4930
+hostname: 192.168.16.101
+
+2022-06-20 22:33:40,548 ERROR 8018 [-/127.0.0.1/-/23ms GET /project/template] nodejs.TypeError: mongo(...).query(...).find is not a function
+    at ProjectController.getTemplate (/Users/yanghuimin/imooc-test/02/egg-example/app/controller/project.js:38:48)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 8018
+hostname: 192.168.16.101
+
+2022-06-20 22:34:54,960 ERROR 8212 [-/127.0.0.1/-/14ms GET /project/template] nodejs.TypeError: mongo(...).find is not a function
+    at ProjectController.getTemplate (/Users/yanghuimin/imooc-test/02/egg-example/app/controller/project.js:38:31)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 8212
+hostname: 192.168.16.101
+
+2022-06-20 22:34:58,671 ERROR 8212 [-/127.0.0.1/-/2ms GET /project/template] nodejs.TypeError: mongo(...).find is not a function
+    at ProjectController.getTemplate (/Users/yanghuimin/imooc-test/02/egg-example/app/controller/project.js:38:31)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/yanghuimin/imooc-test/02/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 8212
+hostname: 192.168.16.101
+

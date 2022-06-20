@@ -8,4 +8,6 @@ module.exports = app => {
   router.get('/', controller.home.index);
   router.get('/project', controller.project.index);
   router.get('/project/template', controller.project.getTemplate);
+  router.get('/project/dbdata', controller.project.getData);
+  // router.get('/project/test', controller.project.getTest);
 };

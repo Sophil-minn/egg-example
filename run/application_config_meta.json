@@ -171,7 +171,8 @@
     "dependencies": {
       "@pick-star/cli-mongodb": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
       "egg": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
+      "egg-scripts": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
+      "mongoose": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
       "autod": "/Users/yanghuimin/imooc-test/02/egg-example/node_modules/egg/config/config.default.js",
