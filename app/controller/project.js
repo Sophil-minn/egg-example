@@ -2,6 +2,8 @@
 
 const Controller = require('egg').Controller;
 const mongo = require('../utils/mongo');
+const mongo2 = require('../utils/mongo2');
+const mongo3 = require('../utils/mongo3');
 
 
 /*
@@ -42,17 +44,23 @@ class ProjectController extends Controller {
   }
 
   async getTest() {
+    const { ctx } = this;
     // URI
     const uri = 'mongodb://localhost:27017/beibei-cli';
     console.log(uri, 'uri');
-    // 1.2 连接指定数据库（URL只有数据库是变化的）
-    // mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true });
-    // 1.3 获取连接对象
-    // const conn = mongoose.connection;
-    // // 1.4 绑定连接完成的监听
-    // conn.on('connected', () => { // 连接成功回调
-    //   console.log('数据库连接成功~');
-    // });
+    const data = await mongo2().query("project");
+    // // const data = require('./mock');
+  	console.log('getTest', data, 'data');
+    ctx.body = data;
+  }
+
+  async getTest3() {
+    const { ctx } = this;
+    // URI
+    const data = await mongo3().query("project");
+    // // const data = require('./mock');
+  	console.log('getTest2', data, 'data');
+    ctx.body = data;
   }
 
   // 获取项目/组件的代码模板
